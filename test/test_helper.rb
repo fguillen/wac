@@ -1,5 +1,6 @@
 $LOAD_PATH.unshift File.expand_path("../lib", __dir__)
 require "wac"
+require "vcr"
 
 require "minitest/autorun"
 
@@ -13,4 +14,10 @@ class Minitest::Test
       f.write content
     end
   end
+end
+
+# vcr
+VCR.configure do |config|
+  config.cassette_library_dir = "#{__dir__}/fixtures/vcr_cassettes"
+  config.hook_into :webmock
 end

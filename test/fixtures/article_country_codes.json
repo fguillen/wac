@@ -1,0 +1,6797 @@
+{
+  "tables": [
+    [
+  {
+    "Short name upper case in ISO 3166": {
+      "text": "CHINA"
+    },
+    "Short name lower case in ISO 3166": {
+      "text": "China"
+    },
+    "Listed as independent in ISO 3166": [
+      {
+        "text": "[5]",
+        "link": "#cite_note-5"
+      },
+      {
+        "text": "Yes"
+      }
+    ],
+    "Local short name": {
+      "text": "Zhongguo"
+    },
+    "Language(s)": {
+      "text": "Chinese"
+    },
+    "Disputes": {
+      "text": "Disputed sovereignty",
+      "link": "/wiki/Two_Chinas"
+    },
+    "Links to ISO 3166-2 with details": {
+      "text": "ISO 3166-2:CN",
+      "link": "/wiki/ISO_3166-2:CN"
+    }
+  },
+  {
+    "Short name upper case in ISO 3166": {
+      "text": "CYPRUS"
+    },
+    "Short name lower case in ISO 3166": {
+      "text": "Cyprus"
+    },
+    "Listed as independent in ISO 3166": [
+      {
+        "text": "[6]",
+        "link": "#cite_note-6"
+      },
+      {
+        "text": "Yes"
+      }
+    ],
+    "Local short name": {
+      "text": "KýprosKıbrıs"
+    },
+    "Language(s)": {
+      "text": "GreekTurkish"
+    },
+    "Disputes": {
+      "text": "Disputed sovereignty",
+      "link": "/wiki/Cyprus_dispute"
+    },
+    "Links to ISO 3166-2 with details": {
+      "text": "ISO 3166-2:CY",
+      "link": "/wiki/ISO_3166-2:CY"
+    }
+  },
+  {
+    "Short name upper case in ISO 3166": {
+      "text": "FALKLAND ISLANDS (MALVINAS)"
+    },
+    "Short name lower case in ISO 3166": {
+      "text": "Falkland Islands (the) [Malvinas]"
+    },
+    "Listed as independent in ISO 3166": [
+      {
+        "text": "[7]",
+        "link": "#cite_note-7"
+      },
+      {
+        "text": "No"
+      }
+    ],
+    "Local short name": {
+      "text": "Falkland Islands (the) [Malvinas]"
+    },
+    "Language(s)": {
+      "text": "English"
+    },
+    "Disputes": [
+      {
+        "text": "Disputed sovereignty",
+        "link": "/wiki/Falkland_Islands_sovereignty_dispute"
+      },
+      {
+        "text": "naming",
+        "link": "/wiki/List_of_Falkland_Islands_placenames"
+      },
+      {
+        "text": "and"
+      }
+    ],
+    "Links to ISO 3166-2 with details": {
+      "text": "ISO 3166-2:FK",
+      "link": "/wiki/ISO_3166-2:FK"
+    }
+  },
+  {
+    "Short name upper case in ISO 3166": {
+      "text": "PALESTINE, STATE OF"
+    },
+    "Short name lower case in ISO 3166": {
+      "text": "Palestine, State of"
+    },
+    "Listed as independent in ISO 3166": [
+      {
+        "text": "[8]",
+        "link": "#cite_note-8"
+      },
+      {
+        "text": "No"
+      }
+    ],
+    "Local short name": {
+      "text": "Dawlat Filasţīn"
+    },
+    "Language(s)": {
+      "text": "Arabic"
+    },
+    "Disputes": {
+      "text": "Disputed sovereignty",
+      "link": "/wiki/International_recognition_of_the_State_of_Palestine"
+    },
+    "Links to ISO 3166-2 with details": {
+      "text": "ISO 3166-2:PS",
+      "link": "/wiki/ISO_3166-2:PS"
+    }
+  },
+  {
+    "Short name upper case in ISO 3166": {
+      "text": "TAIWAN, PROVINCE OF CHINA"
+    },
+    "Short name lower case in ISO 3166": {
+      "text": "Taiwan (Province of China)",
+      "link": "/wiki/Taiwan,_China"
+    },
+    "Listed as independent in ISO 3166": [
+      {
+        "text": "[9]",
+        "link": "#cite_note-9"
+      },
+      {
+        "text": "No"
+      }
+    ],
+    "Local short name": {
+      "text": "Taiwan"
+    },
+    "Language(s)": {
+      "text": "Chinese"
+    },
+    "Disputes": [
+      {
+        "text": "Disputed sovereignty and naming",
+        "link": "/wiki/Political_status_of_Taiwan"
+      },
+      {
+        "text": "[4]",
+        "link": "#cite_note-faqs_specific-4"
+      }
+    ],
+    "Links to ISO 3166-2 with details": {
+      "text": "ISO 3166-2:TW",
+      "link": "/wiki/ISO_3166-2:TW"
+    }
+  },
+  {
+    "Short name upper case in ISO 3166": {
+      "text": "WESTERN SAHARA"
+    },
+    "Short name lower case in ISO 3166": {
+      "text": "Western Sahara",
+      "link": "/wiki/Western_Sahara"
+    },
+    "Listed as independent in ISO 3166": [
+      {
+        "text": "[10]",
+        "link": "#cite_note-10"
+      },
+      {
+        "text": "No"
+      }
+    ],
+    "Local short name": {
+      "text": "Aş Şaḩrā' al Gharbīyah"
+    },
+    "Language(s)": {
+      "text": "Arabic"
+    },
+    "Disputes": {
+      "text": "Disputed sovereignty",
+      "link": "/wiki/Political_status_of_Western_Sahara"
+    },
+    "Links to ISO 3166-2 with details": {
+      "text": "ISO 3166-2:EH",
+      "link": "/wiki/ISO_3166-2:EH"
+    }
+  }
+],
+    [
+  {
+    "English short name (using title case)": {
+      "text": "Afghanistan",
+      "link": "/wiki/Afghanistan"
+    },
+    "Alpha-2 code": {
+      "text": "AF",
+      "link": "/wiki/ISO_3166-1_alpha-2#AF"
+    },
+    "Alpha-3 code": {
+      "text": "AFG"
+    },
+    "Numeric code": {
+      "text": "004"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AF",
+      "link": "/wiki/ISO_3166-2:AF"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Åland Islands",
+      "link": "/wiki/%C3%85land_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "AX",
+      "link": "/wiki/ISO_3166-1_alpha-2#AX"
+    },
+    "Alpha-3 code": {
+      "text": "ALA"
+    },
+    "Numeric code": {
+      "text": "248"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AX",
+      "link": "/wiki/ISO_3166-2:AX"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Albania",
+      "link": "/wiki/Albania"
+    },
+    "Alpha-2 code": {
+      "text": "AL",
+      "link": "/wiki/ISO_3166-1_alpha-2#AL"
+    },
+    "Alpha-3 code": {
+      "text": "ALB"
+    },
+    "Numeric code": {
+      "text": "008"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AL",
+      "link": "/wiki/ISO_3166-2:AL"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Algeria",
+      "link": "/wiki/Algeria"
+    },
+    "Alpha-2 code": {
+      "text": "DZ",
+      "link": "/wiki/ISO_3166-1_alpha-2#DZ"
+    },
+    "Alpha-3 code": {
+      "text": "DZA"
+    },
+    "Numeric code": {
+      "text": "012"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:DZ",
+      "link": "/wiki/ISO_3166-2:DZ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "American Samoa",
+      "link": "/wiki/American_Samoa"
+    },
+    "Alpha-2 code": {
+      "text": "AS",
+      "link": "/wiki/ISO_3166-1_alpha-2#AS"
+    },
+    "Alpha-3 code": {
+      "text": "ASM"
+    },
+    "Numeric code": {
+      "text": "016"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AS",
+      "link": "/wiki/ISO_3166-2:AS"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Andorra",
+      "link": "/wiki/Andorra"
+    },
+    "Alpha-2 code": {
+      "text": "AD",
+      "link": "/wiki/ISO_3166-1_alpha-2#AD"
+    },
+    "Alpha-3 code": {
+      "text": "AND"
+    },
+    "Numeric code": {
+      "text": "020"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AD",
+      "link": "/wiki/ISO_3166-2:AD"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Angola",
+      "link": "/wiki/Angola"
+    },
+    "Alpha-2 code": {
+      "text": "AO",
+      "link": "/wiki/ISO_3166-1_alpha-2#AO"
+    },
+    "Alpha-3 code": {
+      "text": "AGO"
+    },
+    "Numeric code": {
+      "text": "024"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AO",
+      "link": "/wiki/ISO_3166-2:AO"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Anguilla",
+      "link": "/wiki/Anguilla"
+    },
+    "Alpha-2 code": {
+      "text": "AI",
+      "link": "/wiki/ISO_3166-1_alpha-2#AI"
+    },
+    "Alpha-3 code": {
+      "text": "AIA"
+    },
+    "Numeric code": {
+      "text": "660"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AI",
+      "link": "/wiki/ISO_3166-2:AI"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Antarctica",
+      "link": "/wiki/Antarctica"
+    },
+    "Alpha-2 code": {
+      "text": "AQ",
+      "link": "/wiki/ISO_3166-1_alpha-2#AQ"
+    },
+    "Alpha-3 code": {
+      "text": "ATA"
+    },
+    "Numeric code": {
+      "text": "010"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AQ",
+      "link": "/wiki/ISO_3166-2:AQ"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Antigua and Barbuda",
+      "link": "/wiki/Antigua_and_Barbuda"
+    },
+    "Alpha-2 code": {
+      "text": "AG",
+      "link": "/wiki/ISO_3166-1_alpha-2#AG"
+    },
+    "Alpha-3 code": {
+      "text": "ATG"
+    },
+    "Numeric code": {
+      "text": "028"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AG",
+      "link": "/wiki/ISO_3166-2:AG"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Argentina",
+      "link": "/wiki/Argentina"
+    },
+    "Alpha-2 code": {
+      "text": "AR",
+      "link": "/wiki/ISO_3166-1_alpha-2#AR"
+    },
+    "Alpha-3 code": {
+      "text": "ARG"
+    },
+    "Numeric code": {
+      "text": "032"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AR",
+      "link": "/wiki/ISO_3166-2:AR"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Armenia",
+      "link": "/wiki/Armenia"
+    },
+    "Alpha-2 code": {
+      "text": "AM",
+      "link": "/wiki/ISO_3166-1_alpha-2#AM"
+    },
+    "Alpha-3 code": {
+      "text": "ARM"
+    },
+    "Numeric code": {
+      "text": "051"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AM",
+      "link": "/wiki/ISO_3166-2:AM"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Aruba",
+      "link": "/wiki/Aruba"
+    },
+    "Alpha-2 code": {
+      "text": "AW",
+      "link": "/wiki/ISO_3166-1_alpha-2#AW"
+    },
+    "Alpha-3 code": {
+      "text": "ABW"
+    },
+    "Numeric code": {
+      "text": "533"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AW",
+      "link": "/wiki/ISO_3166-2:AW"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Australia",
+      "link": "/wiki/Australia"
+    },
+    "Alpha-2 code": {
+      "text": "AU",
+      "link": "/wiki/ISO_3166-1_alpha-2#AU"
+    },
+    "Alpha-3 code": {
+      "text": "AUS"
+    },
+    "Numeric code": {
+      "text": "036"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AU",
+      "link": "/wiki/ISO_3166-2:AU"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Austria",
+      "link": "/wiki/Austria"
+    },
+    "Alpha-2 code": {
+      "text": "AT",
+      "link": "/wiki/ISO_3166-1_alpha-2#AT"
+    },
+    "Alpha-3 code": {
+      "text": "AUT"
+    },
+    "Numeric code": {
+      "text": "040"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AT",
+      "link": "/wiki/ISO_3166-2:AT"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Azerbaijan",
+      "link": "/wiki/Azerbaijan"
+    },
+    "Alpha-2 code": {
+      "text": "AZ",
+      "link": "/wiki/ISO_3166-1_alpha-2#AZ"
+    },
+    "Alpha-3 code": {
+      "text": "AZE"
+    },
+    "Numeric code": {
+      "text": "031"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AZ",
+      "link": "/wiki/ISO_3166-2:AZ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Bahamas",
+      "link": "/wiki/Bahamas"
+    },
+    "Alpha-2 code": {
+      "text": "BS",
+      "link": "/wiki/ISO_3166-1_alpha-2#BS"
+    },
+    "Alpha-3 code": {
+      "text": "BHS"
+    },
+    "Numeric code": {
+      "text": "044"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BS",
+      "link": "/wiki/ISO_3166-2:BS"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Bahrain",
+      "link": "/wiki/Bahrain"
+    },
+    "Alpha-2 code": {
+      "text": "BH",
+      "link": "/wiki/ISO_3166-1_alpha-2#BH"
+    },
+    "Alpha-3 code": {
+      "text": "BHR"
+    },
+    "Numeric code": {
+      "text": "048"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BH",
+      "link": "/wiki/ISO_3166-2:BH"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Bangladesh",
+      "link": "/wiki/Bangladesh"
+    },
+    "Alpha-2 code": {
+      "text": "BD",
+      "link": "/wiki/ISO_3166-1_alpha-2#BD"
+    },
+    "Alpha-3 code": {
+      "text": "BGD"
+    },
+    "Numeric code": {
+      "text": "050"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BD",
+      "link": "/wiki/ISO_3166-2:BD"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Barbados",
+      "link": "/wiki/Barbados"
+    },
+    "Alpha-2 code": {
+      "text": "BB",
+      "link": "/wiki/ISO_3166-1_alpha-2#BB"
+    },
+    "Alpha-3 code": {
+      "text": "BRB"
+    },
+    "Numeric code": {
+      "text": "052"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BB",
+      "link": "/wiki/ISO_3166-2:BB"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Belarus",
+      "link": "/wiki/Belarus"
+    },
+    "Alpha-2 code": {
+      "text": "BY",
+      "link": "/wiki/ISO_3166-1_alpha-2#BY"
+    },
+    "Alpha-3 code": {
+      "text": "BLR"
+    },
+    "Numeric code": {
+      "text": "112"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BY",
+      "link": "/wiki/ISO_3166-2:BY"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Belgium",
+      "link": "/wiki/Belgium"
+    },
+    "Alpha-2 code": {
+      "text": "BE",
+      "link": "/wiki/ISO_3166-1_alpha-2#BE"
+    },
+    "Alpha-3 code": {
+      "text": "BEL"
+    },
+    "Numeric code": {
+      "text": "056"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BE",
+      "link": "/wiki/ISO_3166-2:BE"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Belize",
+      "link": "/wiki/Belize"
+    },
+    "Alpha-2 code": {
+      "text": "BZ",
+      "link": "/wiki/ISO_3166-1_alpha-2#BZ"
+    },
+    "Alpha-3 code": {
+      "text": "BLZ"
+    },
+    "Numeric code": {
+      "text": "084"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BZ",
+      "link": "/wiki/ISO_3166-2:BZ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Benin",
+      "link": "/wiki/Benin"
+    },
+    "Alpha-2 code": {
+      "text": "BJ",
+      "link": "/wiki/ISO_3166-1_alpha-2#BJ"
+    },
+    "Alpha-3 code": {
+      "text": "BEN"
+    },
+    "Numeric code": {
+      "text": "204"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BJ",
+      "link": "/wiki/ISO_3166-2:BJ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Bermuda",
+      "link": "/wiki/Bermuda"
+    },
+    "Alpha-2 code": {
+      "text": "BM",
+      "link": "/wiki/ISO_3166-1_alpha-2#BM"
+    },
+    "Alpha-3 code": {
+      "text": "BMU"
+    },
+    "Numeric code": {
+      "text": "060"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BM",
+      "link": "/wiki/ISO_3166-2:BM"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Bhutan",
+      "link": "/wiki/Bhutan"
+    },
+    "Alpha-2 code": {
+      "text": "BT",
+      "link": "/wiki/ISO_3166-1_alpha-2#BT"
+    },
+    "Alpha-3 code": {
+      "text": "BTN"
+    },
+    "Numeric code": {
+      "text": "064"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BT",
+      "link": "/wiki/ISO_3166-2:BT"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Bolivia (Plurinational State of)",
+      "link": "/wiki/Bolivia"
+    },
+    "Alpha-2 code": {
+      "text": "BO",
+      "link": "/wiki/ISO_3166-1_alpha-2#BO"
+    },
+    "Alpha-3 code": {
+      "text": "BOL"
+    },
+    "Numeric code": {
+      "text": "068"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BO",
+      "link": "/wiki/ISO_3166-2:BO"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Bonaire, Sint Eustatius and Saba",
+      "link": "/wiki/Caribbean_Netherlands"
+    },
+    "Alpha-2 code": {
+      "text": "BQ",
+      "link": "/wiki/ISO_3166-1_alpha-2#BQ"
+    },
+    "Alpha-3 code": {
+      "text": "BES"
+    },
+    "Numeric code": {
+      "text": "535"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BQ",
+      "link": "/wiki/ISO_3166-2:BQ"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Bosnia and Herzegovina",
+      "link": "/wiki/Bosnia_and_Herzegovina"
+    },
+    "Alpha-2 code": {
+      "text": "BA",
+      "link": "/wiki/ISO_3166-1_alpha-2#BA"
+    },
+    "Alpha-3 code": {
+      "text": "BIH"
+    },
+    "Numeric code": {
+      "text": "070"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BA",
+      "link": "/wiki/ISO_3166-2:BA"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Botswana",
+      "link": "/wiki/Botswana"
+    },
+    "Alpha-2 code": {
+      "text": "BW",
+      "link": "/wiki/ISO_3166-1_alpha-2#BW"
+    },
+    "Alpha-3 code": {
+      "text": "BWA"
+    },
+    "Numeric code": {
+      "text": "072"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BW",
+      "link": "/wiki/ISO_3166-2:BW"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Bouvet Island",
+      "link": "/wiki/Bouvet_Island"
+    },
+    "Alpha-2 code": {
+      "text": "BV",
+      "link": "/wiki/ISO_3166-1_alpha-2#BV"
+    },
+    "Alpha-3 code": {
+      "text": "BVT"
+    },
+    "Numeric code": {
+      "text": "074"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BV",
+      "link": "/wiki/ISO_3166-2:BV"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Brazil",
+      "link": "/wiki/Brazil"
+    },
+    "Alpha-2 code": {
+      "text": "BR",
+      "link": "/wiki/ISO_3166-1_alpha-2#BR"
+    },
+    "Alpha-3 code": {
+      "text": "BRA"
+    },
+    "Numeric code": {
+      "text": "076"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BR",
+      "link": "/wiki/ISO_3166-2:BR"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "British Indian Ocean Territory",
+      "link": "/wiki/British_Indian_Ocean_Territory"
+    },
+    "Alpha-2 code": {
+      "text": "IO",
+      "link": "/wiki/ISO_3166-1_alpha-2#IO"
+    },
+    "Alpha-3 code": {
+      "text": "IOT"
+    },
+    "Numeric code": {
+      "text": "086"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:IO",
+      "link": "/wiki/ISO_3166-2:IO"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Brunei Darussalam",
+      "link": "/wiki/Brunei_Darussalam"
+    },
+    "Alpha-2 code": {
+      "text": "BN",
+      "link": "/wiki/ISO_3166-1_alpha-2#BN"
+    },
+    "Alpha-3 code": {
+      "text": "BRN"
+    },
+    "Numeric code": {
+      "text": "096"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BN",
+      "link": "/wiki/ISO_3166-2:BN"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Bulgaria",
+      "link": "/wiki/Bulgaria"
+    },
+    "Alpha-2 code": {
+      "text": "BG",
+      "link": "/wiki/ISO_3166-1_alpha-2#BG"
+    },
+    "Alpha-3 code": {
+      "text": "BGR"
+    },
+    "Numeric code": {
+      "text": "100"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BG",
+      "link": "/wiki/ISO_3166-2:BG"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Burkina Faso",
+      "link": "/wiki/Burkina_Faso"
+    },
+    "Alpha-2 code": {
+      "text": "BF",
+      "link": "/wiki/ISO_3166-1_alpha-2#BF"
+    },
+    "Alpha-3 code": {
+      "text": "BFA"
+    },
+    "Numeric code": {
+      "text": "854"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BF",
+      "link": "/wiki/ISO_3166-2:BF"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Burundi",
+      "link": "/wiki/Burundi"
+    },
+    "Alpha-2 code": {
+      "text": "BI",
+      "link": "/wiki/ISO_3166-1_alpha-2#BI"
+    },
+    "Alpha-3 code": {
+      "text": "BDI"
+    },
+    "Numeric code": {
+      "text": "108"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BI",
+      "link": "/wiki/ISO_3166-2:BI"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Cabo Verde",
+      "link": "/wiki/Cabo_Verde"
+    },
+    "Alpha-2 code": {
+      "text": "CV",
+      "link": "/wiki/ISO_3166-1_alpha-2#CV"
+    },
+    "Alpha-3 code": {
+      "text": "CPV"
+    },
+    "Numeric code": {
+      "text": "132"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CV",
+      "link": "/wiki/ISO_3166-2:CV"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Cambodia",
+      "link": "/wiki/Cambodia"
+    },
+    "Alpha-2 code": {
+      "text": "KH",
+      "link": "/wiki/ISO_3166-1_alpha-2#KH"
+    },
+    "Alpha-3 code": {
+      "text": "KHM"
+    },
+    "Numeric code": {
+      "text": "116"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:KH",
+      "link": "/wiki/ISO_3166-2:KH"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Cameroon",
+      "link": "/wiki/Cameroon"
+    },
+    "Alpha-2 code": {
+      "text": "CM",
+      "link": "/wiki/ISO_3166-1_alpha-2#CM"
+    },
+    "Alpha-3 code": {
+      "text": "CMR"
+    },
+    "Numeric code": {
+      "text": "120"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CM",
+      "link": "/wiki/ISO_3166-2:CM"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Canada",
+      "link": "/wiki/Canada"
+    },
+    "Alpha-2 code": {
+      "text": "CA",
+      "link": "/wiki/ISO_3166-1_alpha-2#CA"
+    },
+    "Alpha-3 code": {
+      "text": "CAN"
+    },
+    "Numeric code": {
+      "text": "124"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CA",
+      "link": "/wiki/ISO_3166-2:CA"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Cayman Islands",
+      "link": "/wiki/Cayman_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "KY",
+      "link": "/wiki/ISO_3166-1_alpha-2#KY"
+    },
+    "Alpha-3 code": {
+      "text": "CYM"
+    },
+    "Numeric code": {
+      "text": "136"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:KY",
+      "link": "/wiki/ISO_3166-2:KY"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Central African Republic",
+      "link": "/wiki/Central_African_Republic"
+    },
+    "Alpha-2 code": {
+      "text": "CF",
+      "link": "/wiki/ISO_3166-1_alpha-2#CF"
+    },
+    "Alpha-3 code": {
+      "text": "CAF"
+    },
+    "Numeric code": {
+      "text": "140"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CF",
+      "link": "/wiki/ISO_3166-2:CF"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Chad",
+      "link": "/wiki/Chad"
+    },
+    "Alpha-2 code": {
+      "text": "TD",
+      "link": "/wiki/ISO_3166-1_alpha-2#TD"
+    },
+    "Alpha-3 code": {
+      "text": "TCD"
+    },
+    "Numeric code": {
+      "text": "148"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TD",
+      "link": "/wiki/ISO_3166-2:TD"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Chile",
+      "link": "/wiki/Chile"
+    },
+    "Alpha-2 code": {
+      "text": "CL",
+      "link": "/wiki/ISO_3166-1_alpha-2#CL"
+    },
+    "Alpha-3 code": {
+      "text": "CHL"
+    },
+    "Numeric code": {
+      "text": "152"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CL",
+      "link": "/wiki/ISO_3166-2:CL"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "China",
+      "link": "/wiki/China"
+    },
+    "Alpha-2 code": {
+      "text": "CN",
+      "link": "/wiki/ISO_3166-1_alpha-2#CN"
+    },
+    "Alpha-3 code": {
+      "text": "CHN"
+    },
+    "Numeric code": {
+      "text": "156"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CN",
+      "link": "/wiki/ISO_3166-2:CN"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Christmas Island",
+      "link": "/wiki/Christmas_Island"
+    },
+    "Alpha-2 code": {
+      "text": "CX",
+      "link": "/wiki/ISO_3166-1_alpha-2#CX"
+    },
+    "Alpha-3 code": {
+      "text": "CXR"
+    },
+    "Numeric code": {
+      "text": "162"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CX",
+      "link": "/wiki/ISO_3166-2:CX"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Cocos (Keeling) Islands",
+      "link": "/wiki/Cocos_(Keeling)_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "CC",
+      "link": "/wiki/ISO_3166-1_alpha-2#CC"
+    },
+    "Alpha-3 code": {
+      "text": "CCK"
+    },
+    "Numeric code": {
+      "text": "166"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CC",
+      "link": "/wiki/ISO_3166-2:CC"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Colombia",
+      "link": "/wiki/Colombia"
+    },
+    "Alpha-2 code": {
+      "text": "CO",
+      "link": "/wiki/ISO_3166-1_alpha-2#CO"
+    },
+    "Alpha-3 code": {
+      "text": "COL"
+    },
+    "Numeric code": {
+      "text": "170"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CO",
+      "link": "/wiki/ISO_3166-2:CO"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Comoros",
+      "link": "/wiki/Comoros"
+    },
+    "Alpha-2 code": {
+      "text": "KM",
+      "link": "/wiki/ISO_3166-1_alpha-2#KM"
+    },
+    "Alpha-3 code": {
+      "text": "COM"
+    },
+    "Numeric code": {
+      "text": "174"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:KM",
+      "link": "/wiki/ISO_3166-2:KM"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Congo",
+      "link": "/wiki/Republic_of_the_Congo"
+    },
+    "Alpha-2 code": {
+      "text": "CG",
+      "link": "/wiki/ISO_3166-1_alpha-2#CG"
+    },
+    "Alpha-3 code": {
+      "text": "COG"
+    },
+    "Numeric code": {
+      "text": "178"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CG",
+      "link": "/wiki/ISO_3166-2:CG"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Congo, Democratic Republic of the",
+      "link": "/wiki/Democratic_Republic_of_the_Congo"
+    },
+    "Alpha-2 code": {
+      "text": "CD",
+      "link": "/wiki/ISO_3166-1_alpha-2#CD"
+    },
+    "Alpha-3 code": {
+      "text": "COD"
+    },
+    "Numeric code": {
+      "text": "180"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CD",
+      "link": "/wiki/ISO_3166-2:CD"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Cook Islands",
+      "link": "/wiki/Cook_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "CK",
+      "link": "/wiki/ISO_3166-1_alpha-2#CK"
+    },
+    "Alpha-3 code": {
+      "text": "COK"
+    },
+    "Numeric code": {
+      "text": "184"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CK",
+      "link": "/wiki/ISO_3166-2:CK"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Costa Rica",
+      "link": "/wiki/Costa_Rica"
+    },
+    "Alpha-2 code": {
+      "text": "CR",
+      "link": "/wiki/ISO_3166-1_alpha-2#CR"
+    },
+    "Alpha-3 code": {
+      "text": "CRI"
+    },
+    "Numeric code": {
+      "text": "188"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CR",
+      "link": "/wiki/ISO_3166-2:CR"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Côte d'Ivoire",
+      "link": "/wiki/Ivory_Coast"
+    },
+    "Alpha-2 code": {
+      "text": "CI",
+      "link": "/wiki/ISO_3166-1_alpha-2#CI"
+    },
+    "Alpha-3 code": {
+      "text": "CIV"
+    },
+    "Numeric code": {
+      "text": "384"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CI",
+      "link": "/wiki/ISO_3166-2:CI"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Croatia",
+      "link": "/wiki/Croatia"
+    },
+    "Alpha-2 code": {
+      "text": "HR",
+      "link": "/wiki/ISO_3166-1_alpha-2#HR"
+    },
+    "Alpha-3 code": {
+      "text": "HRV"
+    },
+    "Numeric code": {
+      "text": "191"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:HR",
+      "link": "/wiki/ISO_3166-2:HR"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Cuba",
+      "link": "/wiki/Cuba"
+    },
+    "Alpha-2 code": {
+      "text": "CU",
+      "link": "/wiki/ISO_3166-1_alpha-2#CU"
+    },
+    "Alpha-3 code": {
+      "text": "CUB"
+    },
+    "Numeric code": {
+      "text": "192"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CU",
+      "link": "/wiki/ISO_3166-2:CU"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Curaçao",
+      "link": "/wiki/Cura%C3%A7ao"
+    },
+    "Alpha-2 code": {
+      "text": "CW",
+      "link": "/wiki/ISO_3166-1_alpha-2#CW"
+    },
+    "Alpha-3 code": {
+      "text": "CUW"
+    },
+    "Numeric code": {
+      "text": "531"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CW",
+      "link": "/wiki/ISO_3166-2:CW"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Cyprus",
+      "link": "/wiki/Cyprus"
+    },
+    "Alpha-2 code": {
+      "text": "CY",
+      "link": "/wiki/ISO_3166-1_alpha-2#CY"
+    },
+    "Alpha-3 code": {
+      "text": "CYP"
+    },
+    "Numeric code": {
+      "text": "196"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CY",
+      "link": "/wiki/ISO_3166-2:CY"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Czechia",
+      "link": "/wiki/Czech_Republic"
+    },
+    "Alpha-2 code": {
+      "text": "CZ",
+      "link": "/wiki/ISO_3166-1_alpha-2#CZ"
+    },
+    "Alpha-3 code": {
+      "text": "CZE"
+    },
+    "Numeric code": {
+      "text": "203"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CZ",
+      "link": "/wiki/ISO_3166-2:CZ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Denmark",
+      "link": "/wiki/Denmark"
+    },
+    "Alpha-2 code": {
+      "text": "DK",
+      "link": "/wiki/ISO_3166-1_alpha-2#DK"
+    },
+    "Alpha-3 code": {
+      "text": "DNK"
+    },
+    "Numeric code": {
+      "text": "208"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:DK",
+      "link": "/wiki/ISO_3166-2:DK"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Djibouti",
+      "link": "/wiki/Djibouti"
+    },
+    "Alpha-2 code": {
+      "text": "DJ",
+      "link": "/wiki/ISO_3166-1_alpha-2#DJ"
+    },
+    "Alpha-3 code": {
+      "text": "DJI"
+    },
+    "Numeric code": {
+      "text": "262"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:DJ",
+      "link": "/wiki/ISO_3166-2:DJ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Dominica",
+      "link": "/wiki/Dominica"
+    },
+    "Alpha-2 code": {
+      "text": "DM",
+      "link": "/wiki/ISO_3166-1_alpha-2#DM"
+    },
+    "Alpha-3 code": {
+      "text": "DMA"
+    },
+    "Numeric code": {
+      "text": "212"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:DM",
+      "link": "/wiki/ISO_3166-2:DM"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Dominican Republic",
+      "link": "/wiki/Dominican_Republic"
+    },
+    "Alpha-2 code": {
+      "text": "DO",
+      "link": "/wiki/ISO_3166-1_alpha-2#DO"
+    },
+    "Alpha-3 code": {
+      "text": "DOM"
+    },
+    "Numeric code": {
+      "text": "214"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:DO",
+      "link": "/wiki/ISO_3166-2:DO"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Ecuador",
+      "link": "/wiki/Ecuador"
+    },
+    "Alpha-2 code": {
+      "text": "EC",
+      "link": "/wiki/ISO_3166-1_alpha-2#EC"
+    },
+    "Alpha-3 code": {
+      "text": "ECU"
+    },
+    "Numeric code": {
+      "text": "218"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:EC",
+      "link": "/wiki/ISO_3166-2:EC"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Egypt",
+      "link": "/wiki/Egypt"
+    },
+    "Alpha-2 code": {
+      "text": "EG",
+      "link": "/wiki/ISO_3166-1_alpha-2#EG"
+    },
+    "Alpha-3 code": {
+      "text": "EGY"
+    },
+    "Numeric code": {
+      "text": "818"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:EG",
+      "link": "/wiki/ISO_3166-2:EG"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "El Salvador",
+      "link": "/wiki/El_Salvador"
+    },
+    "Alpha-2 code": {
+      "text": "SV",
+      "link": "/wiki/ISO_3166-1_alpha-2#SV"
+    },
+    "Alpha-3 code": {
+      "text": "SLV"
+    },
+    "Numeric code": {
+      "text": "222"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SV",
+      "link": "/wiki/ISO_3166-2:SV"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Equatorial Guinea",
+      "link": "/wiki/Equatorial_Guinea"
+    },
+    "Alpha-2 code": {
+      "text": "GQ",
+      "link": "/wiki/ISO_3166-1_alpha-2#GQ"
+    },
+    "Alpha-3 code": {
+      "text": "GNQ"
+    },
+    "Numeric code": {
+      "text": "226"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GQ",
+      "link": "/wiki/ISO_3166-2:GQ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Eritrea",
+      "link": "/wiki/Eritrea"
+    },
+    "Alpha-2 code": {
+      "text": "ER",
+      "link": "/wiki/ISO_3166-1_alpha-2#ER"
+    },
+    "Alpha-3 code": {
+      "text": "ERI"
+    },
+    "Numeric code": {
+      "text": "232"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:ER",
+      "link": "/wiki/ISO_3166-2:ER"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Estonia",
+      "link": "/wiki/Estonia"
+    },
+    "Alpha-2 code": {
+      "text": "EE",
+      "link": "/wiki/ISO_3166-1_alpha-2#EE"
+    },
+    "Alpha-3 code": {
+      "text": "EST"
+    },
+    "Numeric code": {
+      "text": "233"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:EE",
+      "link": "/wiki/ISO_3166-2:EE"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Eswatini",
+      "link": "/wiki/Eswatini"
+    },
+    "Alpha-2 code": {
+      "text": "SZ",
+      "link": "/wiki/ISO_3166-1_alpha-2#SZ"
+    },
+    "Alpha-3 code": {
+      "text": "SWZ"
+    },
+    "Numeric code": {
+      "text": "748"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SZ",
+      "link": "/wiki/ISO_3166-2:SZ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Ethiopia",
+      "link": "/wiki/Ethiopia"
+    },
+    "Alpha-2 code": {
+      "text": "ET",
+      "link": "/wiki/ISO_3166-1_alpha-2#ET"
+    },
+    "Alpha-3 code": {
+      "text": "ETH"
+    },
+    "Numeric code": {
+      "text": "231"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:ET",
+      "link": "/wiki/ISO_3166-2:ET"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Falkland Islands (Malvinas)",
+      "link": "/wiki/Falkland_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "FK",
+      "link": "/wiki/ISO_3166-1_alpha-2#FK"
+    },
+    "Alpha-3 code": {
+      "text": "FLK"
+    },
+    "Numeric code": {
+      "text": "238"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:FK",
+      "link": "/wiki/ISO_3166-2:FK"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Faroe Islands",
+      "link": "/wiki/Faroe_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "FO",
+      "link": "/wiki/ISO_3166-1_alpha-2#FO"
+    },
+    "Alpha-3 code": {
+      "text": "FRO"
+    },
+    "Numeric code": {
+      "text": "234"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:FO",
+      "link": "/wiki/ISO_3166-2:FO"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Fiji",
+      "link": "/wiki/Fiji"
+    },
+    "Alpha-2 code": {
+      "text": "FJ",
+      "link": "/wiki/ISO_3166-1_alpha-2#FJ"
+    },
+    "Alpha-3 code": {
+      "text": "FJI"
+    },
+    "Numeric code": {
+      "text": "242"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:FJ",
+      "link": "/wiki/ISO_3166-2:FJ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Finland",
+      "link": "/wiki/Finland"
+    },
+    "Alpha-2 code": {
+      "text": "FI",
+      "link": "/wiki/ISO_3166-1_alpha-2#FI"
+    },
+    "Alpha-3 code": {
+      "text": "FIN"
+    },
+    "Numeric code": {
+      "text": "246"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:FI",
+      "link": "/wiki/ISO_3166-2:FI"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "France",
+      "link": "/wiki/France"
+    },
+    "Alpha-2 code": {
+      "text": "FR",
+      "link": "/wiki/ISO_3166-1_alpha-2#FR"
+    },
+    "Alpha-3 code": {
+      "text": "FRA"
+    },
+    "Numeric code": {
+      "text": "250"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:FR",
+      "link": "/wiki/ISO_3166-2:FR"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "French Guiana",
+      "link": "/wiki/French_Guiana"
+    },
+    "Alpha-2 code": {
+      "text": "GF",
+      "link": "/wiki/ISO_3166-1_alpha-2#GF"
+    },
+    "Alpha-3 code": {
+      "text": "GUF"
+    },
+    "Numeric code": {
+      "text": "254"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GF",
+      "link": "/wiki/ISO_3166-2:GF"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "French Polynesia",
+      "link": "/wiki/French_Polynesia"
+    },
+    "Alpha-2 code": {
+      "text": "PF",
+      "link": "/wiki/ISO_3166-1_alpha-2#PF"
+    },
+    "Alpha-3 code": {
+      "text": "PYF"
+    },
+    "Numeric code": {
+      "text": "258"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PF",
+      "link": "/wiki/ISO_3166-2:PF"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "French Southern Territories",
+      "link": "/wiki/French_Southern_and_Antarctic_Lands"
+    },
+    "Alpha-2 code": {
+      "text": "TF",
+      "link": "/wiki/ISO_3166-1_alpha-2#TF"
+    },
+    "Alpha-3 code": {
+      "text": "ATF"
+    },
+    "Numeric code": {
+      "text": "260"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TF",
+      "link": "/wiki/ISO_3166-2:TF"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Gabon",
+      "link": "/wiki/Gabon"
+    },
+    "Alpha-2 code": {
+      "text": "GA",
+      "link": "/wiki/ISO_3166-1_alpha-2#GA"
+    },
+    "Alpha-3 code": {
+      "text": "GAB"
+    },
+    "Numeric code": {
+      "text": "266"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GA",
+      "link": "/wiki/ISO_3166-2:GA"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Gambia",
+      "link": "/wiki/Gambia"
+    },
+    "Alpha-2 code": {
+      "text": "GM",
+      "link": "/wiki/ISO_3166-1_alpha-2#GM"
+    },
+    "Alpha-3 code": {
+      "text": "GMB"
+    },
+    "Numeric code": {
+      "text": "270"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GM",
+      "link": "/wiki/ISO_3166-2:GM"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Georgia",
+      "link": "/wiki/Georgia_(country)"
+    },
+    "Alpha-2 code": {
+      "text": "GE",
+      "link": "/wiki/ISO_3166-1_alpha-2#GE"
+    },
+    "Alpha-3 code": {
+      "text": "GEO"
+    },
+    "Numeric code": {
+      "text": "268"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GE",
+      "link": "/wiki/ISO_3166-2:GE"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Germany",
+      "link": "/wiki/Germany"
+    },
+    "Alpha-2 code": {
+      "text": "DE",
+      "link": "/wiki/ISO_3166-1_alpha-2#DE"
+    },
+    "Alpha-3 code": {
+      "text": "DEU"
+    },
+    "Numeric code": {
+      "text": "276"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:DE",
+      "link": "/wiki/ISO_3166-2:DE"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Ghana",
+      "link": "/wiki/Ghana"
+    },
+    "Alpha-2 code": {
+      "text": "GH",
+      "link": "/wiki/ISO_3166-1_alpha-2#GH"
+    },
+    "Alpha-3 code": {
+      "text": "GHA"
+    },
+    "Numeric code": {
+      "text": "288"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GH",
+      "link": "/wiki/ISO_3166-2:GH"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Gibraltar",
+      "link": "/wiki/Gibraltar"
+    },
+    "Alpha-2 code": {
+      "text": "GI",
+      "link": "/wiki/ISO_3166-1_alpha-2#GI"
+    },
+    "Alpha-3 code": {
+      "text": "GIB"
+    },
+    "Numeric code": {
+      "text": "292"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GI",
+      "link": "/wiki/ISO_3166-2:GI"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Greece",
+      "link": "/wiki/Greece"
+    },
+    "Alpha-2 code": {
+      "text": "GR",
+      "link": "/wiki/ISO_3166-1_alpha-2#GR"
+    },
+    "Alpha-3 code": {
+      "text": "GRC"
+    },
+    "Numeric code": {
+      "text": "300"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GR",
+      "link": "/wiki/ISO_3166-2:GR"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Greenland",
+      "link": "/wiki/Greenland"
+    },
+    "Alpha-2 code": {
+      "text": "GL",
+      "link": "/wiki/ISO_3166-1_alpha-2#GL"
+    },
+    "Alpha-3 code": {
+      "text": "GRL"
+    },
+    "Numeric code": {
+      "text": "304"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GL",
+      "link": "/wiki/ISO_3166-2:GL"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Grenada",
+      "link": "/wiki/Grenada"
+    },
+    "Alpha-2 code": {
+      "text": "GD",
+      "link": "/wiki/ISO_3166-1_alpha-2#GD"
+    },
+    "Alpha-3 code": {
+      "text": "GRD"
+    },
+    "Numeric code": {
+      "text": "308"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GD",
+      "link": "/wiki/ISO_3166-2:GD"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Guadeloupe",
+      "link": "/wiki/Guadeloupe"
+    },
+    "Alpha-2 code": {
+      "text": "GP",
+      "link": "/wiki/ISO_3166-1_alpha-2#GP"
+    },
+    "Alpha-3 code": {
+      "text": "GLP"
+    },
+    "Numeric code": {
+      "text": "312"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GP",
+      "link": "/wiki/ISO_3166-2:GP"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Guam",
+      "link": "/wiki/Guam"
+    },
+    "Alpha-2 code": {
+      "text": "GU",
+      "link": "/wiki/ISO_3166-1_alpha-2#GU"
+    },
+    "Alpha-3 code": {
+      "text": "GUM"
+    },
+    "Numeric code": {
+      "text": "316"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GU",
+      "link": "/wiki/ISO_3166-2:GU"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Guatemala",
+      "link": "/wiki/Guatemala"
+    },
+    "Alpha-2 code": {
+      "text": "GT",
+      "link": "/wiki/ISO_3166-1_alpha-2#GT"
+    },
+    "Alpha-3 code": {
+      "text": "GTM"
+    },
+    "Numeric code": {
+      "text": "320"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GT",
+      "link": "/wiki/ISO_3166-2:GT"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Guernsey",
+      "link": "/wiki/Bailiwick_of_Guernsey"
+    },
+    "Alpha-2 code": {
+      "text": "GG",
+      "link": "/wiki/ISO_3166-1_alpha-2#GG"
+    },
+    "Alpha-3 code": {
+      "text": "GGY"
+    },
+    "Numeric code": {
+      "text": "831"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GG",
+      "link": "/wiki/ISO_3166-2:GG"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Guinea",
+      "link": "/wiki/Guinea"
+    },
+    "Alpha-2 code": {
+      "text": "GN",
+      "link": "/wiki/ISO_3166-1_alpha-2#GN"
+    },
+    "Alpha-3 code": {
+      "text": "GIN"
+    },
+    "Numeric code": {
+      "text": "324"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GN",
+      "link": "/wiki/ISO_3166-2:GN"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Guinea-Bissau",
+      "link": "/wiki/Guinea-Bissau"
+    },
+    "Alpha-2 code": {
+      "text": "GW",
+      "link": "/wiki/ISO_3166-1_alpha-2#GW"
+    },
+    "Alpha-3 code": {
+      "text": "GNB"
+    },
+    "Numeric code": {
+      "text": "624"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GW",
+      "link": "/wiki/ISO_3166-2:GW"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Guyana",
+      "link": "/wiki/Guyana"
+    },
+    "Alpha-2 code": {
+      "text": "GY",
+      "link": "/wiki/ISO_3166-1_alpha-2#GY"
+    },
+    "Alpha-3 code": {
+      "text": "GUY"
+    },
+    "Numeric code": {
+      "text": "328"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GY",
+      "link": "/wiki/ISO_3166-2:GY"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Haiti",
+      "link": "/wiki/Haiti"
+    },
+    "Alpha-2 code": {
+      "text": "HT",
+      "link": "/wiki/ISO_3166-1_alpha-2#HT"
+    },
+    "Alpha-3 code": {
+      "text": "HTI"
+    },
+    "Numeric code": {
+      "text": "332"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:HT",
+      "link": "/wiki/ISO_3166-2:HT"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Heard Island and McDonald Islands",
+      "link": "/wiki/Heard_Island_and_McDonald_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "HM",
+      "link": "/wiki/ISO_3166-1_alpha-2#HM"
+    },
+    "Alpha-3 code": {
+      "text": "HMD"
+    },
+    "Numeric code": {
+      "text": "334"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:HM",
+      "link": "/wiki/ISO_3166-2:HM"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Holy See",
+      "link": "/wiki/Vatican_City"
+    },
+    "Alpha-2 code": {
+      "text": "VA",
+      "link": "/wiki/ISO_3166-1_alpha-2#VA"
+    },
+    "Alpha-3 code": {
+      "text": "VAT"
+    },
+    "Numeric code": {
+      "text": "336"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:VA",
+      "link": "/wiki/ISO_3166-2:VA"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Honduras",
+      "link": "/wiki/Honduras"
+    },
+    "Alpha-2 code": {
+      "text": "HN",
+      "link": "/wiki/ISO_3166-1_alpha-2#HN"
+    },
+    "Alpha-3 code": {
+      "text": "HND"
+    },
+    "Numeric code": {
+      "text": "340"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:HN",
+      "link": "/wiki/ISO_3166-2:HN"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Hong Kong",
+      "link": "/wiki/Hong_Kong"
+    },
+    "Alpha-2 code": {
+      "text": "HK",
+      "link": "/wiki/ISO_3166-1_alpha-2#HK"
+    },
+    "Alpha-3 code": {
+      "text": "HKG"
+    },
+    "Numeric code": {
+      "text": "344"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:HK",
+      "link": "/wiki/ISO_3166-2:HK"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Hungary",
+      "link": "/wiki/Hungary"
+    },
+    "Alpha-2 code": {
+      "text": "HU",
+      "link": "/wiki/ISO_3166-1_alpha-2#HU"
+    },
+    "Alpha-3 code": {
+      "text": "HUN"
+    },
+    "Numeric code": {
+      "text": "348"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:HU",
+      "link": "/wiki/ISO_3166-2:HU"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Iceland",
+      "link": "/wiki/Iceland"
+    },
+    "Alpha-2 code": {
+      "text": "IS",
+      "link": "/wiki/ISO_3166-1_alpha-2#IS"
+    },
+    "Alpha-3 code": {
+      "text": "ISL"
+    },
+    "Numeric code": {
+      "text": "352"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:IS",
+      "link": "/wiki/ISO_3166-2:IS"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "India",
+      "link": "/wiki/India"
+    },
+    "Alpha-2 code": {
+      "text": "IN",
+      "link": "/wiki/ISO_3166-1_alpha-2#IN"
+    },
+    "Alpha-3 code": {
+      "text": "IND"
+    },
+    "Numeric code": {
+      "text": "356"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:IN",
+      "link": "/wiki/ISO_3166-2:IN"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Indonesia",
+      "link": "/wiki/Indonesia"
+    },
+    "Alpha-2 code": {
+      "text": "ID",
+      "link": "/wiki/ISO_3166-1_alpha-2#ID"
+    },
+    "Alpha-3 code": {
+      "text": "IDN"
+    },
+    "Numeric code": {
+      "text": "360"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:ID",
+      "link": "/wiki/ISO_3166-2:ID"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Iran (Islamic Republic of)",
+      "link": "/wiki/Iran"
+    },
+    "Alpha-2 code": {
+      "text": "IR",
+      "link": "/wiki/ISO_3166-1_alpha-2#IR"
+    },
+    "Alpha-3 code": {
+      "text": "IRN"
+    },
+    "Numeric code": {
+      "text": "364"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:IR",
+      "link": "/wiki/ISO_3166-2:IR"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Iraq",
+      "link": "/wiki/Iraq"
+    },
+    "Alpha-2 code": {
+      "text": "IQ",
+      "link": "/wiki/ISO_3166-1_alpha-2#IQ"
+    },
+    "Alpha-3 code": {
+      "text": "IRQ"
+    },
+    "Numeric code": {
+      "text": "368"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:IQ",
+      "link": "/wiki/ISO_3166-2:IQ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Ireland",
+      "link": "/wiki/Republic_of_Ireland"
+    },
+    "Alpha-2 code": {
+      "text": "IE",
+      "link": "/wiki/ISO_3166-1_alpha-2#IE"
+    },
+    "Alpha-3 code": {
+      "text": "IRL"
+    },
+    "Numeric code": {
+      "text": "372"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:IE",
+      "link": "/wiki/ISO_3166-2:IE"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Isle of Man",
+      "link": "/wiki/Isle_of_Man"
+    },
+    "Alpha-2 code": {
+      "text": "IM",
+      "link": "/wiki/ISO_3166-1_alpha-2#IM"
+    },
+    "Alpha-3 code": {
+      "text": "IMN"
+    },
+    "Numeric code": {
+      "text": "833"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:IM",
+      "link": "/wiki/ISO_3166-2:IM"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Israel",
+      "link": "/wiki/Israel"
+    },
+    "Alpha-2 code": {
+      "text": "IL",
+      "link": "/wiki/ISO_3166-1_alpha-2#IL"
+    },
+    "Alpha-3 code": {
+      "text": "ISR"
+    },
+    "Numeric code": {
+      "text": "376"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:IL",
+      "link": "/wiki/ISO_3166-2:IL"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Italy",
+      "link": "/wiki/Italy"
+    },
+    "Alpha-2 code": {
+      "text": "IT",
+      "link": "/wiki/ISO_3166-1_alpha-2#IT"
+    },
+    "Alpha-3 code": {
+      "text": "ITA"
+    },
+    "Numeric code": {
+      "text": "380"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:IT",
+      "link": "/wiki/ISO_3166-2:IT"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Jamaica",
+      "link": "/wiki/Jamaica"
+    },
+    "Alpha-2 code": {
+      "text": "JM",
+      "link": "/wiki/ISO_3166-1_alpha-2#JM"
+    },
+    "Alpha-3 code": {
+      "text": "JAM"
+    },
+    "Numeric code": {
+      "text": "388"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:JM",
+      "link": "/wiki/ISO_3166-2:JM"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Japan",
+      "link": "/wiki/Japan"
+    },
+    "Alpha-2 code": {
+      "text": "JP",
+      "link": "/wiki/ISO_3166-1_alpha-2#JP"
+    },
+    "Alpha-3 code": {
+      "text": "JPN"
+    },
+    "Numeric code": {
+      "text": "392"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:JP",
+      "link": "/wiki/ISO_3166-2:JP"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Jersey",
+      "link": "/wiki/Jersey"
+    },
+    "Alpha-2 code": {
+      "text": "JE",
+      "link": "/wiki/ISO_3166-1_alpha-2#JE"
+    },
+    "Alpha-3 code": {
+      "text": "JEY"
+    },
+    "Numeric code": {
+      "text": "832"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:JE",
+      "link": "/wiki/ISO_3166-2:JE"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Jordan",
+      "link": "/wiki/Jordan"
+    },
+    "Alpha-2 code": {
+      "text": "JO",
+      "link": "/wiki/ISO_3166-1_alpha-2#JO"
+    },
+    "Alpha-3 code": {
+      "text": "JOR"
+    },
+    "Numeric code": {
+      "text": "400"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:JO",
+      "link": "/wiki/ISO_3166-2:JO"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Kazakhstan",
+      "link": "/wiki/Kazakhstan"
+    },
+    "Alpha-2 code": {
+      "text": "KZ",
+      "link": "/wiki/ISO_3166-1_alpha-2#KZ"
+    },
+    "Alpha-3 code": {
+      "text": "KAZ"
+    },
+    "Numeric code": {
+      "text": "398"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:KZ",
+      "link": "/wiki/ISO_3166-2:KZ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Kenya",
+      "link": "/wiki/Kenya"
+    },
+    "Alpha-2 code": {
+      "text": "KE",
+      "link": "/wiki/ISO_3166-1_alpha-2#KE"
+    },
+    "Alpha-3 code": {
+      "text": "KEN"
+    },
+    "Numeric code": {
+      "text": "404"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:KE",
+      "link": "/wiki/ISO_3166-2:KE"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Kiribati",
+      "link": "/wiki/Kiribati"
+    },
+    "Alpha-2 code": {
+      "text": "KI",
+      "link": "/wiki/ISO_3166-1_alpha-2#KI"
+    },
+    "Alpha-3 code": {
+      "text": "KIR"
+    },
+    "Numeric code": {
+      "text": "296"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:KI",
+      "link": "/wiki/ISO_3166-2:KI"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Korea (Democratic People's Republic of)",
+      "link": "/wiki/North_Korea"
+    },
+    "Alpha-2 code": {
+      "text": "KP",
+      "link": "/wiki/ISO_3166-1_alpha-2#KP"
+    },
+    "Alpha-3 code": {
+      "text": "PRK"
+    },
+    "Numeric code": {
+      "text": "408"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:KP",
+      "link": "/wiki/ISO_3166-2:KP"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Korea, Republic of",
+      "link": "/wiki/South_Korea"
+    },
+    "Alpha-2 code": {
+      "text": "KR",
+      "link": "/wiki/ISO_3166-1_alpha-2#KR"
+    },
+    "Alpha-3 code": {
+      "text": "KOR"
+    },
+    "Numeric code": {
+      "text": "410"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:KR",
+      "link": "/wiki/ISO_3166-2:KR"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Kuwait",
+      "link": "/wiki/Kuwait"
+    },
+    "Alpha-2 code": {
+      "text": "KW",
+      "link": "/wiki/ISO_3166-1_alpha-2#KW"
+    },
+    "Alpha-3 code": {
+      "text": "KWT"
+    },
+    "Numeric code": {
+      "text": "414"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:KW",
+      "link": "/wiki/ISO_3166-2:KW"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Kyrgyzstan",
+      "link": "/wiki/Kyrgyzstan"
+    },
+    "Alpha-2 code": {
+      "text": "KG",
+      "link": "/wiki/ISO_3166-1_alpha-2#KG"
+    },
+    "Alpha-3 code": {
+      "text": "KGZ"
+    },
+    "Numeric code": {
+      "text": "417"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:KG",
+      "link": "/wiki/ISO_3166-2:KG"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Lao People's Democratic Republic",
+      "link": "/wiki/Laos"
+    },
+    "Alpha-2 code": {
+      "text": "LA",
+      "link": "/wiki/ISO_3166-1_alpha-2#LA"
+    },
+    "Alpha-3 code": {
+      "text": "LAO"
+    },
+    "Numeric code": {
+      "text": "418"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:LA",
+      "link": "/wiki/ISO_3166-2:LA"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Latvia",
+      "link": "/wiki/Latvia"
+    },
+    "Alpha-2 code": {
+      "text": "LV",
+      "link": "/wiki/ISO_3166-1_alpha-2#LV"
+    },
+    "Alpha-3 code": {
+      "text": "LVA"
+    },
+    "Numeric code": {
+      "text": "428"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:LV",
+      "link": "/wiki/ISO_3166-2:LV"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Lebanon",
+      "link": "/wiki/Lebanon"
+    },
+    "Alpha-2 code": {
+      "text": "LB",
+      "link": "/wiki/ISO_3166-1_alpha-2#LB"
+    },
+    "Alpha-3 code": {
+      "text": "LBN"
+    },
+    "Numeric code": {
+      "text": "422"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:LB",
+      "link": "/wiki/ISO_3166-2:LB"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Lesotho",
+      "link": "/wiki/Lesotho"
+    },
+    "Alpha-2 code": {
+      "text": "LS",
+      "link": "/wiki/ISO_3166-1_alpha-2#LS"
+    },
+    "Alpha-3 code": {
+      "text": "LSO"
+    },
+    "Numeric code": {
+      "text": "426"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:LS",
+      "link": "/wiki/ISO_3166-2:LS"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Liberia",
+      "link": "/wiki/Liberia"
+    },
+    "Alpha-2 code": {
+      "text": "LR",
+      "link": "/wiki/ISO_3166-1_alpha-2#LR"
+    },
+    "Alpha-3 code": {
+      "text": "LBR"
+    },
+    "Numeric code": {
+      "text": "430"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:LR",
+      "link": "/wiki/ISO_3166-2:LR"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Libya",
+      "link": "/wiki/Libya"
+    },
+    "Alpha-2 code": {
+      "text": "LY",
+      "link": "/wiki/ISO_3166-1_alpha-2#LY"
+    },
+    "Alpha-3 code": {
+      "text": "LBY"
+    },
+    "Numeric code": {
+      "text": "434"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:LY",
+      "link": "/wiki/ISO_3166-2:LY"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Liechtenstein",
+      "link": "/wiki/Liechtenstein"
+    },
+    "Alpha-2 code": {
+      "text": "LI",
+      "link": "/wiki/ISO_3166-1_alpha-2#LI"
+    },
+    "Alpha-3 code": {
+      "text": "LIE"
+    },
+    "Numeric code": {
+      "text": "438"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:LI",
+      "link": "/wiki/ISO_3166-2:LI"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Lithuania",
+      "link": "/wiki/Lithuania"
+    },
+    "Alpha-2 code": {
+      "text": "LT",
+      "link": "/wiki/ISO_3166-1_alpha-2#LT"
+    },
+    "Alpha-3 code": {
+      "text": "LTU"
+    },
+    "Numeric code": {
+      "text": "440"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:LT",
+      "link": "/wiki/ISO_3166-2:LT"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Luxembourg",
+      "link": "/wiki/Luxembourg"
+    },
+    "Alpha-2 code": {
+      "text": "LU",
+      "link": "/wiki/ISO_3166-1_alpha-2#LU"
+    },
+    "Alpha-3 code": {
+      "text": "LUX"
+    },
+    "Numeric code": {
+      "text": "442"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:LU",
+      "link": "/wiki/ISO_3166-2:LU"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Macao",
+      "link": "/wiki/Macau"
+    },
+    "Alpha-2 code": {
+      "text": "MO",
+      "link": "/wiki/ISO_3166-1_alpha-2#MO"
+    },
+    "Alpha-3 code": {
+      "text": "MAC"
+    },
+    "Numeric code": {
+      "text": "446"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MO",
+      "link": "/wiki/ISO_3166-2:MO"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Madagascar",
+      "link": "/wiki/Madagascar"
+    },
+    "Alpha-2 code": {
+      "text": "MG",
+      "link": "/wiki/ISO_3166-1_alpha-2#MG"
+    },
+    "Alpha-3 code": {
+      "text": "MDG"
+    },
+    "Numeric code": {
+      "text": "450"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MG",
+      "link": "/wiki/ISO_3166-2:MG"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Malawi",
+      "link": "/wiki/Malawi"
+    },
+    "Alpha-2 code": {
+      "text": "MW",
+      "link": "/wiki/ISO_3166-1_alpha-2#MW"
+    },
+    "Alpha-3 code": {
+      "text": "MWI"
+    },
+    "Numeric code": {
+      "text": "454"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MW",
+      "link": "/wiki/ISO_3166-2:MW"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Malaysia",
+      "link": "/wiki/Malaysia"
+    },
+    "Alpha-2 code": {
+      "text": "MY",
+      "link": "/wiki/ISO_3166-1_alpha-2#MY"
+    },
+    "Alpha-3 code": {
+      "text": "MYS"
+    },
+    "Numeric code": {
+      "text": "458"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MY",
+      "link": "/wiki/ISO_3166-2:MY"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Maldives",
+      "link": "/wiki/Maldives"
+    },
+    "Alpha-2 code": {
+      "text": "MV",
+      "link": "/wiki/ISO_3166-1_alpha-2#MV"
+    },
+    "Alpha-3 code": {
+      "text": "MDV"
+    },
+    "Numeric code": {
+      "text": "462"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MV",
+      "link": "/wiki/ISO_3166-2:MV"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Mali",
+      "link": "/wiki/Mali"
+    },
+    "Alpha-2 code": {
+      "text": "ML",
+      "link": "/wiki/ISO_3166-1_alpha-2#ML"
+    },
+    "Alpha-3 code": {
+      "text": "MLI"
+    },
+    "Numeric code": {
+      "text": "466"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:ML",
+      "link": "/wiki/ISO_3166-2:ML"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Malta",
+      "link": "/wiki/Malta"
+    },
+    "Alpha-2 code": {
+      "text": "MT",
+      "link": "/wiki/ISO_3166-1_alpha-2#MT"
+    },
+    "Alpha-3 code": {
+      "text": "MLT"
+    },
+    "Numeric code": {
+      "text": "470"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MT",
+      "link": "/wiki/ISO_3166-2:MT"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Marshall Islands",
+      "link": "/wiki/Marshall_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "MH",
+      "link": "/wiki/ISO_3166-1_alpha-2#MH"
+    },
+    "Alpha-3 code": {
+      "text": "MHL"
+    },
+    "Numeric code": {
+      "text": "584"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MH",
+      "link": "/wiki/ISO_3166-2:MH"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Martinique",
+      "link": "/wiki/Martinique"
+    },
+    "Alpha-2 code": {
+      "text": "MQ",
+      "link": "/wiki/ISO_3166-1_alpha-2#MQ"
+    },
+    "Alpha-3 code": {
+      "text": "MTQ"
+    },
+    "Numeric code": {
+      "text": "474"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MQ",
+      "link": "/wiki/ISO_3166-2:MQ"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Mauritania",
+      "link": "/wiki/Mauritania"
+    },
+    "Alpha-2 code": {
+      "text": "MR",
+      "link": "/wiki/ISO_3166-1_alpha-2#MR"
+    },
+    "Alpha-3 code": {
+      "text": "MRT"
+    },
+    "Numeric code": {
+      "text": "478"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MR",
+      "link": "/wiki/ISO_3166-2:MR"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Mauritius",
+      "link": "/wiki/Mauritius"
+    },
+    "Alpha-2 code": {
+      "text": "MU",
+      "link": "/wiki/ISO_3166-1_alpha-2#MU"
+    },
+    "Alpha-3 code": {
+      "text": "MUS"
+    },
+    "Numeric code": {
+      "text": "480"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MU",
+      "link": "/wiki/ISO_3166-2:MU"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Mayotte",
+      "link": "/wiki/Mayotte"
+    },
+    "Alpha-2 code": {
+      "text": "YT",
+      "link": "/wiki/ISO_3166-1_alpha-2#YT"
+    },
+    "Alpha-3 code": {
+      "text": "MYT"
+    },
+    "Numeric code": {
+      "text": "175"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:YT",
+      "link": "/wiki/ISO_3166-2:YT"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Mexico",
+      "link": "/wiki/Mexico"
+    },
+    "Alpha-2 code": {
+      "text": "MX",
+      "link": "/wiki/ISO_3166-1_alpha-2#MX"
+    },
+    "Alpha-3 code": {
+      "text": "MEX"
+    },
+    "Numeric code": {
+      "text": "484"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MX",
+      "link": "/wiki/ISO_3166-2:MX"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Micronesia (Federated States of)",
+      "link": "/wiki/Federated_States_of_Micronesia"
+    },
+    "Alpha-2 code": {
+      "text": "FM",
+      "link": "/wiki/ISO_3166-1_alpha-2#FM"
+    },
+    "Alpha-3 code": {
+      "text": "FSM"
+    },
+    "Numeric code": {
+      "text": "583"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:FM",
+      "link": "/wiki/ISO_3166-2:FM"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Moldova, Republic of",
+      "link": "/wiki/Moldova"
+    },
+    "Alpha-2 code": {
+      "text": "MD",
+      "link": "/wiki/ISO_3166-1_alpha-2#MD"
+    },
+    "Alpha-3 code": {
+      "text": "MDA"
+    },
+    "Numeric code": {
+      "text": "498"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MD",
+      "link": "/wiki/ISO_3166-2:MD"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Monaco",
+      "link": "/wiki/Monaco"
+    },
+    "Alpha-2 code": {
+      "text": "MC",
+      "link": "/wiki/ISO_3166-1_alpha-2#MC"
+    },
+    "Alpha-3 code": {
+      "text": "MCO"
+    },
+    "Numeric code": {
+      "text": "492"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MC",
+      "link": "/wiki/ISO_3166-2:MC"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Mongolia",
+      "link": "/wiki/Mongolia"
+    },
+    "Alpha-2 code": {
+      "text": "MN",
+      "link": "/wiki/ISO_3166-1_alpha-2#MN"
+    },
+    "Alpha-3 code": {
+      "text": "MNG"
+    },
+    "Numeric code": {
+      "text": "496"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MN",
+      "link": "/wiki/ISO_3166-2:MN"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Montenegro",
+      "link": "/wiki/Montenegro"
+    },
+    "Alpha-2 code": {
+      "text": "ME",
+      "link": "/wiki/ISO_3166-1_alpha-2#ME"
+    },
+    "Alpha-3 code": {
+      "text": "MNE"
+    },
+    "Numeric code": {
+      "text": "499"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:ME",
+      "link": "/wiki/ISO_3166-2:ME"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Montserrat",
+      "link": "/wiki/Montserrat"
+    },
+    "Alpha-2 code": {
+      "text": "MS",
+      "link": "/wiki/ISO_3166-1_alpha-2#MS"
+    },
+    "Alpha-3 code": {
+      "text": "MSR"
+    },
+    "Numeric code": {
+      "text": "500"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MS",
+      "link": "/wiki/ISO_3166-2:MS"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Morocco",
+      "link": "/wiki/Morocco"
+    },
+    "Alpha-2 code": {
+      "text": "MA",
+      "link": "/wiki/ISO_3166-1_alpha-2#MA"
+    },
+    "Alpha-3 code": {
+      "text": "MAR"
+    },
+    "Numeric code": {
+      "text": "504"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MA",
+      "link": "/wiki/ISO_3166-2:MA"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Mozambique",
+      "link": "/wiki/Mozambique"
+    },
+    "Alpha-2 code": {
+      "text": "MZ",
+      "link": "/wiki/ISO_3166-1_alpha-2#MZ"
+    },
+    "Alpha-3 code": {
+      "text": "MOZ"
+    },
+    "Numeric code": {
+      "text": "508"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MZ",
+      "link": "/wiki/ISO_3166-2:MZ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Myanmar",
+      "link": "/wiki/Myanmar"
+    },
+    "Alpha-2 code": {
+      "text": "MM",
+      "link": "/wiki/ISO_3166-1_alpha-2#MM"
+    },
+    "Alpha-3 code": {
+      "text": "MMR"
+    },
+    "Numeric code": {
+      "text": "104"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MM",
+      "link": "/wiki/ISO_3166-2:MM"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Namibia",
+      "link": "/wiki/Namibia"
+    },
+    "Alpha-2 code": {
+      "text": "NA",
+      "link": "/wiki/ISO_3166-1_alpha-2#NA"
+    },
+    "Alpha-3 code": {
+      "text": "NAM"
+    },
+    "Numeric code": {
+      "text": "516"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:NA",
+      "link": "/wiki/ISO_3166-2:NA"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Nauru",
+      "link": "/wiki/Nauru"
+    },
+    "Alpha-2 code": {
+      "text": "NR",
+      "link": "/wiki/ISO_3166-1_alpha-2#NR"
+    },
+    "Alpha-3 code": {
+      "text": "NRU"
+    },
+    "Numeric code": {
+      "text": "520"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:NR",
+      "link": "/wiki/ISO_3166-2:NR"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Nepal",
+      "link": "/wiki/Nepal"
+    },
+    "Alpha-2 code": {
+      "text": "NP",
+      "link": "/wiki/ISO_3166-1_alpha-2#NP"
+    },
+    "Alpha-3 code": {
+      "text": "NPL"
+    },
+    "Numeric code": {
+      "text": "524"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:NP",
+      "link": "/wiki/ISO_3166-2:NP"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Netherlands",
+      "link": "/wiki/Kingdom_of_the_Netherlands"
+    },
+    "Alpha-2 code": {
+      "text": "NL",
+      "link": "/wiki/ISO_3166-1_alpha-2#NL"
+    },
+    "Alpha-3 code": {
+      "text": "NLD"
+    },
+    "Numeric code": {
+      "text": "528"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:NL",
+      "link": "/wiki/ISO_3166-2:NL"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "New Caledonia",
+      "link": "/wiki/New_Caledonia"
+    },
+    "Alpha-2 code": {
+      "text": "NC",
+      "link": "/wiki/ISO_3166-1_alpha-2#NC"
+    },
+    "Alpha-3 code": {
+      "text": "NCL"
+    },
+    "Numeric code": {
+      "text": "540"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:NC",
+      "link": "/wiki/ISO_3166-2:NC"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "New Zealand",
+      "link": "/wiki/New_Zealand"
+    },
+    "Alpha-2 code": {
+      "text": "NZ",
+      "link": "/wiki/ISO_3166-1_alpha-2#NZ"
+    },
+    "Alpha-3 code": {
+      "text": "NZL"
+    },
+    "Numeric code": {
+      "text": "554"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:NZ",
+      "link": "/wiki/ISO_3166-2:NZ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Nicaragua",
+      "link": "/wiki/Nicaragua"
+    },
+    "Alpha-2 code": {
+      "text": "NI",
+      "link": "/wiki/ISO_3166-1_alpha-2#NI"
+    },
+    "Alpha-3 code": {
+      "text": "NIC"
+    },
+    "Numeric code": {
+      "text": "558"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:NI",
+      "link": "/wiki/ISO_3166-2:NI"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Niger",
+      "link": "/wiki/Niger"
+    },
+    "Alpha-2 code": {
+      "text": "NE",
+      "link": "/wiki/ISO_3166-1_alpha-2#NE"
+    },
+    "Alpha-3 code": {
+      "text": "NER"
+    },
+    "Numeric code": {
+      "text": "562"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:NE",
+      "link": "/wiki/ISO_3166-2:NE"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Nigeria",
+      "link": "/wiki/Nigeria"
+    },
+    "Alpha-2 code": {
+      "text": "NG",
+      "link": "/wiki/ISO_3166-1_alpha-2#NG"
+    },
+    "Alpha-3 code": {
+      "text": "NGA"
+    },
+    "Numeric code": {
+      "text": "566"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:NG",
+      "link": "/wiki/ISO_3166-2:NG"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Niue",
+      "link": "/wiki/Niue"
+    },
+    "Alpha-2 code": {
+      "text": "NU",
+      "link": "/wiki/ISO_3166-1_alpha-2#NU"
+    },
+    "Alpha-3 code": {
+      "text": "NIU"
+    },
+    "Numeric code": {
+      "text": "570"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:NU",
+      "link": "/wiki/ISO_3166-2:NU"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Norfolk Island",
+      "link": "/wiki/Norfolk_Island"
+    },
+    "Alpha-2 code": {
+      "text": "NF",
+      "link": "/wiki/ISO_3166-1_alpha-2#NF"
+    },
+    "Alpha-3 code": {
+      "text": "NFK"
+    },
+    "Numeric code": {
+      "text": "574"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:NF",
+      "link": "/wiki/ISO_3166-2:NF"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "North Macedonia",
+      "link": "/wiki/North_Macedonia"
+    },
+    "Alpha-2 code": {
+      "text": "MK",
+      "link": "/wiki/ISO_3166-1_alpha-2#MK"
+    },
+    "Alpha-3 code": {
+      "text": "MKD"
+    },
+    "Numeric code": {
+      "text": "807"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MK",
+      "link": "/wiki/ISO_3166-2:MK"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Northern Mariana Islands",
+      "link": "/wiki/Northern_Mariana_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "MP",
+      "link": "/wiki/ISO_3166-1_alpha-2#MP"
+    },
+    "Alpha-3 code": {
+      "text": "MNP"
+    },
+    "Numeric code": {
+      "text": "580"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MP",
+      "link": "/wiki/ISO_3166-2:MP"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Norway",
+      "link": "/wiki/Norway"
+    },
+    "Alpha-2 code": {
+      "text": "NO",
+      "link": "/wiki/ISO_3166-1_alpha-2#NO"
+    },
+    "Alpha-3 code": {
+      "text": "NOR"
+    },
+    "Numeric code": {
+      "text": "578"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:NO",
+      "link": "/wiki/ISO_3166-2:NO"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Oman",
+      "link": "/wiki/Oman"
+    },
+    "Alpha-2 code": {
+      "text": "OM",
+      "link": "/wiki/ISO_3166-1_alpha-2#OM"
+    },
+    "Alpha-3 code": {
+      "text": "OMN"
+    },
+    "Numeric code": {
+      "text": "512"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:OM",
+      "link": "/wiki/ISO_3166-2:OM"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Pakistan",
+      "link": "/wiki/Pakistan"
+    },
+    "Alpha-2 code": {
+      "text": "PK",
+      "link": "/wiki/ISO_3166-1_alpha-2#PK"
+    },
+    "Alpha-3 code": {
+      "text": "PAK"
+    },
+    "Numeric code": {
+      "text": "586"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PK",
+      "link": "/wiki/ISO_3166-2:PK"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Palau",
+      "link": "/wiki/Palau"
+    },
+    "Alpha-2 code": {
+      "text": "PW",
+      "link": "/wiki/ISO_3166-1_alpha-2#PW"
+    },
+    "Alpha-3 code": {
+      "text": "PLW"
+    },
+    "Numeric code": {
+      "text": "585"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PW",
+      "link": "/wiki/ISO_3166-2:PW"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Palestine, State of",
+      "link": "/wiki/State_of_Palestine"
+    },
+    "Alpha-2 code": {
+      "text": "PS",
+      "link": "/wiki/ISO_3166-1_alpha-2#PS"
+    },
+    "Alpha-3 code": {
+      "text": "PSE"
+    },
+    "Numeric code": {
+      "text": "275"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PS",
+      "link": "/wiki/ISO_3166-2:PS"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Panama",
+      "link": "/wiki/Panama"
+    },
+    "Alpha-2 code": {
+      "text": "PA",
+      "link": "/wiki/ISO_3166-1_alpha-2#PA"
+    },
+    "Alpha-3 code": {
+      "text": "PAN"
+    },
+    "Numeric code": {
+      "text": "591"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PA",
+      "link": "/wiki/ISO_3166-2:PA"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Papua New Guinea",
+      "link": "/wiki/Papua_New_Guinea"
+    },
+    "Alpha-2 code": {
+      "text": "PG",
+      "link": "/wiki/ISO_3166-1_alpha-2#PG"
+    },
+    "Alpha-3 code": {
+      "text": "PNG"
+    },
+    "Numeric code": {
+      "text": "598"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PG",
+      "link": "/wiki/ISO_3166-2:PG"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Paraguay",
+      "link": "/wiki/Paraguay"
+    },
+    "Alpha-2 code": {
+      "text": "PY",
+      "link": "/wiki/ISO_3166-1_alpha-2#PY"
+    },
+    "Alpha-3 code": {
+      "text": "PRY"
+    },
+    "Numeric code": {
+      "text": "600"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PY",
+      "link": "/wiki/ISO_3166-2:PY"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Peru",
+      "link": "/wiki/Peru"
+    },
+    "Alpha-2 code": {
+      "text": "PE",
+      "link": "/wiki/ISO_3166-1_alpha-2#PE"
+    },
+    "Alpha-3 code": {
+      "text": "PER"
+    },
+    "Numeric code": {
+      "text": "604"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PE",
+      "link": "/wiki/ISO_3166-2:PE"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Philippines",
+      "link": "/wiki/Philippines"
+    },
+    "Alpha-2 code": {
+      "text": "PH",
+      "link": "/wiki/ISO_3166-1_alpha-2#PH"
+    },
+    "Alpha-3 code": {
+      "text": "PHL"
+    },
+    "Numeric code": {
+      "text": "608"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PH",
+      "link": "/wiki/ISO_3166-2:PH"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Pitcairn",
+      "link": "/wiki/Pitcairn_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "PN",
+      "link": "/wiki/ISO_3166-1_alpha-2#PN"
+    },
+    "Alpha-3 code": {
+      "text": "PCN"
+    },
+    "Numeric code": {
+      "text": "612"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PN",
+      "link": "/wiki/ISO_3166-2:PN"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Poland",
+      "link": "/wiki/Poland"
+    },
+    "Alpha-2 code": {
+      "text": "PL",
+      "link": "/wiki/ISO_3166-1_alpha-2#PL"
+    },
+    "Alpha-3 code": {
+      "text": "POL"
+    },
+    "Numeric code": {
+      "text": "616"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PL",
+      "link": "/wiki/ISO_3166-2:PL"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Portugal",
+      "link": "/wiki/Portugal"
+    },
+    "Alpha-2 code": {
+      "text": "PT",
+      "link": "/wiki/ISO_3166-1_alpha-2#PT"
+    },
+    "Alpha-3 code": {
+      "text": "PRT"
+    },
+    "Numeric code": {
+      "text": "620"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PT",
+      "link": "/wiki/ISO_3166-2:PT"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Puerto Rico",
+      "link": "/wiki/Puerto_Rico"
+    },
+    "Alpha-2 code": {
+      "text": "PR",
+      "link": "/wiki/ISO_3166-1_alpha-2#PR"
+    },
+    "Alpha-3 code": {
+      "text": "PRI"
+    },
+    "Numeric code": {
+      "text": "630"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PR",
+      "link": "/wiki/ISO_3166-2:PR"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Qatar",
+      "link": "/wiki/Qatar"
+    },
+    "Alpha-2 code": {
+      "text": "QA",
+      "link": "/wiki/ISO_3166-1_alpha-2#QA"
+    },
+    "Alpha-3 code": {
+      "text": "QAT"
+    },
+    "Numeric code": {
+      "text": "634"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:QA",
+      "link": "/wiki/ISO_3166-2:QA"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Réunion",
+      "link": "/wiki/R%C3%A9union"
+    },
+    "Alpha-2 code": {
+      "text": "RE",
+      "link": "/wiki/ISO_3166-1_alpha-2#RE"
+    },
+    "Alpha-3 code": {
+      "text": "REU"
+    },
+    "Numeric code": {
+      "text": "638"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:RE",
+      "link": "/wiki/ISO_3166-2:RE"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Romania",
+      "link": "/wiki/Romania"
+    },
+    "Alpha-2 code": {
+      "text": "RO",
+      "link": "/wiki/ISO_3166-1_alpha-2#RO"
+    },
+    "Alpha-3 code": {
+      "text": "ROU"
+    },
+    "Numeric code": {
+      "text": "642"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:RO",
+      "link": "/wiki/ISO_3166-2:RO"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Russian Federation",
+      "link": "/wiki/Russia"
+    },
+    "Alpha-2 code": {
+      "text": "RU",
+      "link": "/wiki/ISO_3166-1_alpha-2#RU"
+    },
+    "Alpha-3 code": {
+      "text": "RUS"
+    },
+    "Numeric code": {
+      "text": "643"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:RU",
+      "link": "/wiki/ISO_3166-2:RU"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Rwanda",
+      "link": "/wiki/Rwanda"
+    },
+    "Alpha-2 code": {
+      "text": "RW",
+      "link": "/wiki/ISO_3166-1_alpha-2#RW"
+    },
+    "Alpha-3 code": {
+      "text": "RWA"
+    },
+    "Numeric code": {
+      "text": "646"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:RW",
+      "link": "/wiki/ISO_3166-2:RW"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Saint Barthélemy",
+      "link": "/wiki/Saint_Barth%C3%A9lemy"
+    },
+    "Alpha-2 code": {
+      "text": "BL",
+      "link": "/wiki/ISO_3166-1_alpha-2#BL"
+    },
+    "Alpha-3 code": {
+      "text": "BLM"
+    },
+    "Numeric code": {
+      "text": "652"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:BL",
+      "link": "/wiki/ISO_3166-2:BL"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Saint Helena, Ascension and Tristan da Cunha",
+      "link": "/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha"
+    },
+    "Alpha-2 code": {
+      "text": "SH",
+      "link": "/wiki/ISO_3166-1_alpha-2#SH"
+    },
+    "Alpha-3 code": {
+      "text": "SHN"
+    },
+    "Numeric code": {
+      "text": "654"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SH",
+      "link": "/wiki/ISO_3166-2:SH"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Saint Kitts and Nevis",
+      "link": "/wiki/Saint_Kitts_and_Nevis"
+    },
+    "Alpha-2 code": {
+      "text": "KN",
+      "link": "/wiki/ISO_3166-1_alpha-2#KN"
+    },
+    "Alpha-3 code": {
+      "text": "KNA"
+    },
+    "Numeric code": {
+      "text": "659"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:KN",
+      "link": "/wiki/ISO_3166-2:KN"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Saint Lucia",
+      "link": "/wiki/Saint_Lucia"
+    },
+    "Alpha-2 code": {
+      "text": "LC",
+      "link": "/wiki/ISO_3166-1_alpha-2#LC"
+    },
+    "Alpha-3 code": {
+      "text": "LCA"
+    },
+    "Numeric code": {
+      "text": "662"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:LC",
+      "link": "/wiki/ISO_3166-2:LC"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Saint Martin (French part)",
+      "link": "/wiki/Collectivity_of_Saint_Martin"
+    },
+    "Alpha-2 code": {
+      "text": "MF",
+      "link": "/wiki/ISO_3166-1_alpha-2#MF"
+    },
+    "Alpha-3 code": {
+      "text": "MAF"
+    },
+    "Numeric code": {
+      "text": "663"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:MF",
+      "link": "/wiki/ISO_3166-2:MF"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Saint Pierre and Miquelon",
+      "link": "/wiki/Saint_Pierre_and_Miquelon"
+    },
+    "Alpha-2 code": {
+      "text": "PM",
+      "link": "/wiki/ISO_3166-1_alpha-2#PM"
+    },
+    "Alpha-3 code": {
+      "text": "SPM"
+    },
+    "Numeric code": {
+      "text": "666"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:PM",
+      "link": "/wiki/ISO_3166-2:PM"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Saint Vincent and the Grenadines",
+      "link": "/wiki/Saint_Vincent_and_the_Grenadines"
+    },
+    "Alpha-2 code": {
+      "text": "VC",
+      "link": "/wiki/ISO_3166-1_alpha-2#VC"
+    },
+    "Alpha-3 code": {
+      "text": "VCT"
+    },
+    "Numeric code": {
+      "text": "670"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:VC",
+      "link": "/wiki/ISO_3166-2:VC"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Samoa",
+      "link": "/wiki/Samoa"
+    },
+    "Alpha-2 code": {
+      "text": "WS",
+      "link": "/wiki/ISO_3166-1_alpha-2#WS"
+    },
+    "Alpha-3 code": {
+      "text": "WSM"
+    },
+    "Numeric code": {
+      "text": "882"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:WS",
+      "link": "/wiki/ISO_3166-2:WS"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "San Marino",
+      "link": "/wiki/San_Marino"
+    },
+    "Alpha-2 code": {
+      "text": "SM",
+      "link": "/wiki/ISO_3166-1_alpha-2#SM"
+    },
+    "Alpha-3 code": {
+      "text": "SMR"
+    },
+    "Numeric code": {
+      "text": "674"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SM",
+      "link": "/wiki/ISO_3166-2:SM"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Sao Tome and Principe",
+      "link": "/wiki/Sao_Tome_and_Principe"
+    },
+    "Alpha-2 code": {
+      "text": "ST",
+      "link": "/wiki/ISO_3166-1_alpha-2#ST"
+    },
+    "Alpha-3 code": {
+      "text": "STP"
+    },
+    "Numeric code": {
+      "text": "678"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:ST",
+      "link": "/wiki/ISO_3166-2:ST"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Saudi Arabia",
+      "link": "/wiki/Saudi_Arabia"
+    },
+    "Alpha-2 code": {
+      "text": "SA",
+      "link": "/wiki/ISO_3166-1_alpha-2#SA"
+    },
+    "Alpha-3 code": {
+      "text": "SAU"
+    },
+    "Numeric code": {
+      "text": "682"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SA",
+      "link": "/wiki/ISO_3166-2:SA"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Senegal",
+      "link": "/wiki/Senegal"
+    },
+    "Alpha-2 code": {
+      "text": "SN",
+      "link": "/wiki/ISO_3166-1_alpha-2#SN"
+    },
+    "Alpha-3 code": {
+      "text": "SEN"
+    },
+    "Numeric code": {
+      "text": "686"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SN",
+      "link": "/wiki/ISO_3166-2:SN"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Serbia",
+      "link": "/wiki/Serbia"
+    },
+    "Alpha-2 code": {
+      "text": "RS",
+      "link": "/wiki/ISO_3166-1_alpha-2#RS"
+    },
+    "Alpha-3 code": {
+      "text": "SRB"
+    },
+    "Numeric code": {
+      "text": "688"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:RS",
+      "link": "/wiki/ISO_3166-2:RS"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Seychelles",
+      "link": "/wiki/Seychelles"
+    },
+    "Alpha-2 code": {
+      "text": "SC",
+      "link": "/wiki/ISO_3166-1_alpha-2#SC"
+    },
+    "Alpha-3 code": {
+      "text": "SYC"
+    },
+    "Numeric code": {
+      "text": "690"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SC",
+      "link": "/wiki/ISO_3166-2:SC"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Sierra Leone",
+      "link": "/wiki/Sierra_Leone"
+    },
+    "Alpha-2 code": {
+      "text": "SL",
+      "link": "/wiki/ISO_3166-1_alpha-2#SL"
+    },
+    "Alpha-3 code": {
+      "text": "SLE"
+    },
+    "Numeric code": {
+      "text": "694"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SL",
+      "link": "/wiki/ISO_3166-2:SL"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Singapore",
+      "link": "/wiki/Singapore"
+    },
+    "Alpha-2 code": {
+      "text": "SG",
+      "link": "/wiki/ISO_3166-1_alpha-2#SG"
+    },
+    "Alpha-3 code": {
+      "text": "SGP"
+    },
+    "Numeric code": {
+      "text": "702"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SG",
+      "link": "/wiki/ISO_3166-2:SG"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Sint Maarten (Dutch part)",
+      "link": "/wiki/Sint_Maarten"
+    },
+    "Alpha-2 code": {
+      "text": "SX",
+      "link": "/wiki/ISO_3166-1_alpha-2#SX"
+    },
+    "Alpha-3 code": {
+      "text": "SXM"
+    },
+    "Numeric code": {
+      "text": "534"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SX",
+      "link": "/wiki/ISO_3166-2:SX"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Slovakia",
+      "link": "/wiki/Slovakia"
+    },
+    "Alpha-2 code": {
+      "text": "SK",
+      "link": "/wiki/ISO_3166-1_alpha-2#SK"
+    },
+    "Alpha-3 code": {
+      "text": "SVK"
+    },
+    "Numeric code": {
+      "text": "703"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SK",
+      "link": "/wiki/ISO_3166-2:SK"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Slovenia",
+      "link": "/wiki/Slovenia"
+    },
+    "Alpha-2 code": {
+      "text": "SI",
+      "link": "/wiki/ISO_3166-1_alpha-2#SI"
+    },
+    "Alpha-3 code": {
+      "text": "SVN"
+    },
+    "Numeric code": {
+      "text": "705"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SI",
+      "link": "/wiki/ISO_3166-2:SI"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Solomon Islands",
+      "link": "/wiki/Solomon_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "SB",
+      "link": "/wiki/ISO_3166-1_alpha-2#SB"
+    },
+    "Alpha-3 code": {
+      "text": "SLB"
+    },
+    "Numeric code": {
+      "text": "090"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SB",
+      "link": "/wiki/ISO_3166-2:SB"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Somalia",
+      "link": "/wiki/Somalia"
+    },
+    "Alpha-2 code": {
+      "text": "SO",
+      "link": "/wiki/ISO_3166-1_alpha-2#SO"
+    },
+    "Alpha-3 code": {
+      "text": "SOM"
+    },
+    "Numeric code": {
+      "text": "706"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SO",
+      "link": "/wiki/ISO_3166-2:SO"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "South Africa",
+      "link": "/wiki/South_Africa"
+    },
+    "Alpha-2 code": {
+      "text": "ZA",
+      "link": "/wiki/ISO_3166-1_alpha-2#ZA"
+    },
+    "Alpha-3 code": {
+      "text": "ZAF"
+    },
+    "Numeric code": {
+      "text": "710"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:ZA",
+      "link": "/wiki/ISO_3166-2:ZA"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "South Georgia and the South Sandwich Islands",
+      "link": "/wiki/South_Georgia_and_the_South_Sandwich_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "GS",
+      "link": "/wiki/ISO_3166-1_alpha-2#GS"
+    },
+    "Alpha-3 code": {
+      "text": "SGS"
+    },
+    "Numeric code": {
+      "text": "239"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GS",
+      "link": "/wiki/ISO_3166-2:GS"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "South Sudan",
+      "link": "/wiki/South_Sudan"
+    },
+    "Alpha-2 code": {
+      "text": "SS",
+      "link": "/wiki/ISO_3166-1_alpha-2#SS"
+    },
+    "Alpha-3 code": {
+      "text": "SSD"
+    },
+    "Numeric code": {
+      "text": "728"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SS",
+      "link": "/wiki/ISO_3166-2:SS"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Spain",
+      "link": "/wiki/Spain"
+    },
+    "Alpha-2 code": {
+      "text": "ES",
+      "link": "/wiki/ISO_3166-1_alpha-2#ES"
+    },
+    "Alpha-3 code": {
+      "text": "ESP"
+    },
+    "Numeric code": {
+      "text": "724"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:ES",
+      "link": "/wiki/ISO_3166-2:ES"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Sri Lanka",
+      "link": "/wiki/Sri_Lanka"
+    },
+    "Alpha-2 code": {
+      "text": "LK",
+      "link": "/wiki/ISO_3166-1_alpha-2#LK"
+    },
+    "Alpha-3 code": {
+      "text": "LKA"
+    },
+    "Numeric code": {
+      "text": "144"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:LK",
+      "link": "/wiki/ISO_3166-2:LK"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Sudan",
+      "link": "/wiki/Sudan"
+    },
+    "Alpha-2 code": {
+      "text": "SD",
+      "link": "/wiki/ISO_3166-1_alpha-2#SD"
+    },
+    "Alpha-3 code": {
+      "text": "SDN"
+    },
+    "Numeric code": {
+      "text": "729"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SD",
+      "link": "/wiki/ISO_3166-2:SD"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Suriname",
+      "link": "/wiki/Suriname"
+    },
+    "Alpha-2 code": {
+      "text": "SR",
+      "link": "/wiki/ISO_3166-1_alpha-2#SR"
+    },
+    "Alpha-3 code": {
+      "text": "SUR"
+    },
+    "Numeric code": {
+      "text": "740"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SR",
+      "link": "/wiki/ISO_3166-2:SR"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Svalbard and Jan Mayen",
+      "link": "/wiki/Svalbard_and_Jan_Mayen"
+    },
+    "Alpha-2 code": {
+      "text": "SJ",
+      "link": "/wiki/ISO_3166-1_alpha-2#SJ"
+    },
+    "Alpha-3 code": {
+      "text": "SJM"
+    },
+    "Numeric code": {
+      "text": "744"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SJ",
+      "link": "/wiki/ISO_3166-2:SJ"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Sweden",
+      "link": "/wiki/Sweden"
+    },
+    "Alpha-2 code": {
+      "text": "SE",
+      "link": "/wiki/ISO_3166-1_alpha-2#SE"
+    },
+    "Alpha-3 code": {
+      "text": "SWE"
+    },
+    "Numeric code": {
+      "text": "752"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SE",
+      "link": "/wiki/ISO_3166-2:SE"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Switzerland",
+      "link": "/wiki/Switzerland"
+    },
+    "Alpha-2 code": {
+      "text": "CH",
+      "link": "/wiki/ISO_3166-1_alpha-2#CH"
+    },
+    "Alpha-3 code": {
+      "text": "CHE"
+    },
+    "Numeric code": {
+      "text": "756"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:CH",
+      "link": "/wiki/ISO_3166-2:CH"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Syrian Arab Republic",
+      "link": "/wiki/Syria"
+    },
+    "Alpha-2 code": {
+      "text": "SY",
+      "link": "/wiki/ISO_3166-1_alpha-2#SY"
+    },
+    "Alpha-3 code": {
+      "text": "SYR"
+    },
+    "Numeric code": {
+      "text": "760"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:SY",
+      "link": "/wiki/ISO_3166-2:SY"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Taiwan, Province of China",
+      "link": "/wiki/Taiwan,_China"
+    },
+    "Alpha-2 code": {
+      "text": "TW",
+      "link": "/wiki/ISO_3166-1_alpha-2#TW"
+    },
+    "Alpha-3 code": {
+      "text": "TWN"
+    },
+    "Numeric code": {
+      "text": "158"
+    },
+    "Link to ISO 3166-2 subdivision codes": [
+      {
+        "text": "ISO 3166-2:TW",
+        "link": "/wiki/ISO_3166-2:TW"
+      },
+      {
+        "text": "[a]",
+        "link": "#cite_note-12"
+      }
+    ],
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Tajikistan",
+      "link": "/wiki/Tajikistan"
+    },
+    "Alpha-2 code": {
+      "text": "TJ",
+      "link": "/wiki/ISO_3166-1_alpha-2#TJ"
+    },
+    "Alpha-3 code": {
+      "text": "TJK"
+    },
+    "Numeric code": {
+      "text": "762"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TJ",
+      "link": "/wiki/ISO_3166-2:TJ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Tanzania, United Republic of",
+      "link": "/wiki/Tanzania"
+    },
+    "Alpha-2 code": {
+      "text": "TZ",
+      "link": "/wiki/ISO_3166-1_alpha-2#TZ"
+    },
+    "Alpha-3 code": {
+      "text": "TZA"
+    },
+    "Numeric code": {
+      "text": "834"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TZ",
+      "link": "/wiki/ISO_3166-2:TZ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Thailand",
+      "link": "/wiki/Thailand"
+    },
+    "Alpha-2 code": {
+      "text": "TH",
+      "link": "/wiki/ISO_3166-1_alpha-2#TH"
+    },
+    "Alpha-3 code": {
+      "text": "THA"
+    },
+    "Numeric code": {
+      "text": "764"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TH",
+      "link": "/wiki/ISO_3166-2:TH"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Timor-Leste",
+      "link": "/wiki/East_Timor"
+    },
+    "Alpha-2 code": {
+      "text": "TL",
+      "link": "/wiki/ISO_3166-1_alpha-2#TL"
+    },
+    "Alpha-3 code": {
+      "text": "TLS"
+    },
+    "Numeric code": {
+      "text": "626"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TL",
+      "link": "/wiki/ISO_3166-2:TL"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Togo",
+      "link": "/wiki/Togo"
+    },
+    "Alpha-2 code": {
+      "text": "TG",
+      "link": "/wiki/ISO_3166-1_alpha-2#TG"
+    },
+    "Alpha-3 code": {
+      "text": "TGO"
+    },
+    "Numeric code": {
+      "text": "768"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TG",
+      "link": "/wiki/ISO_3166-2:TG"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Tokelau",
+      "link": "/wiki/Tokelau"
+    },
+    "Alpha-2 code": {
+      "text": "TK",
+      "link": "/wiki/ISO_3166-1_alpha-2#TK"
+    },
+    "Alpha-3 code": {
+      "text": "TKL"
+    },
+    "Numeric code": {
+      "text": "772"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TK",
+      "link": "/wiki/ISO_3166-2:TK"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Tonga",
+      "link": "/wiki/Tonga"
+    },
+    "Alpha-2 code": {
+      "text": "TO",
+      "link": "/wiki/ISO_3166-1_alpha-2#TO"
+    },
+    "Alpha-3 code": {
+      "text": "TON"
+    },
+    "Numeric code": {
+      "text": "776"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TO",
+      "link": "/wiki/ISO_3166-2:TO"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Trinidad and Tobago",
+      "link": "/wiki/Trinidad_and_Tobago"
+    },
+    "Alpha-2 code": {
+      "text": "TT",
+      "link": "/wiki/ISO_3166-1_alpha-2#TT"
+    },
+    "Alpha-3 code": {
+      "text": "TTO"
+    },
+    "Numeric code": {
+      "text": "780"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TT",
+      "link": "/wiki/ISO_3166-2:TT"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Tunisia",
+      "link": "/wiki/Tunisia"
+    },
+    "Alpha-2 code": {
+      "text": "TN",
+      "link": "/wiki/ISO_3166-1_alpha-2#TN"
+    },
+    "Alpha-3 code": {
+      "text": "TUN"
+    },
+    "Numeric code": {
+      "text": "788"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TN",
+      "link": "/wiki/ISO_3166-2:TN"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Turkey",
+      "link": "/wiki/Turkey"
+    },
+    "Alpha-2 code": {
+      "text": "TR",
+      "link": "/wiki/ISO_3166-1_alpha-2#TR"
+    },
+    "Alpha-3 code": {
+      "text": "TUR"
+    },
+    "Numeric code": {
+      "text": "792"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TR",
+      "link": "/wiki/ISO_3166-2:TR"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Turkmenistan",
+      "link": "/wiki/Turkmenistan"
+    },
+    "Alpha-2 code": {
+      "text": "TM",
+      "link": "/wiki/ISO_3166-1_alpha-2#TM"
+    },
+    "Alpha-3 code": {
+      "text": "TKM"
+    },
+    "Numeric code": {
+      "text": "795"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TM",
+      "link": "/wiki/ISO_3166-2:TM"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Turks and Caicos Islands",
+      "link": "/wiki/Turks_and_Caicos_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "TC",
+      "link": "/wiki/ISO_3166-1_alpha-2#TC"
+    },
+    "Alpha-3 code": {
+      "text": "TCA"
+    },
+    "Numeric code": {
+      "text": "796"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TC",
+      "link": "/wiki/ISO_3166-2:TC"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Tuvalu",
+      "link": "/wiki/Tuvalu"
+    },
+    "Alpha-2 code": {
+      "text": "TV",
+      "link": "/wiki/ISO_3166-1_alpha-2#TV"
+    },
+    "Alpha-3 code": {
+      "text": "TUV"
+    },
+    "Numeric code": {
+      "text": "798"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:TV",
+      "link": "/wiki/ISO_3166-2:TV"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Uganda",
+      "link": "/wiki/Uganda"
+    },
+    "Alpha-2 code": {
+      "text": "UG",
+      "link": "/wiki/ISO_3166-1_alpha-2#UG"
+    },
+    "Alpha-3 code": {
+      "text": "UGA"
+    },
+    "Numeric code": {
+      "text": "800"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:UG",
+      "link": "/wiki/ISO_3166-2:UG"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Ukraine",
+      "link": "/wiki/Ukraine"
+    },
+    "Alpha-2 code": {
+      "text": "UA",
+      "link": "/wiki/ISO_3166-1_alpha-2#UA"
+    },
+    "Alpha-3 code": {
+      "text": "UKR"
+    },
+    "Numeric code": {
+      "text": "804"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:UA",
+      "link": "/wiki/ISO_3166-2:UA"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "United Arab Emirates",
+      "link": "/wiki/United_Arab_Emirates"
+    },
+    "Alpha-2 code": {
+      "text": "AE",
+      "link": "/wiki/ISO_3166-1_alpha-2#AE"
+    },
+    "Alpha-3 code": {
+      "text": "ARE"
+    },
+    "Numeric code": {
+      "text": "784"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:AE",
+      "link": "/wiki/ISO_3166-2:AE"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "United Kingdom of Great Britain and Northern Ireland",
+      "link": "/wiki/United_Kingdom"
+    },
+    "Alpha-2 code": {
+      "text": "GB",
+      "link": "/wiki/ISO_3166-1_alpha-2#GB"
+    },
+    "Alpha-3 code": {
+      "text": "GBR"
+    },
+    "Numeric code": {
+      "text": "826"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:GB",
+      "link": "/wiki/ISO_3166-2:GB"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "United States of America",
+      "link": "/wiki/United_States"
+    },
+    "Alpha-2 code": {
+      "text": "US",
+      "link": "/wiki/ISO_3166-1_alpha-2#US"
+    },
+    "Alpha-3 code": {
+      "text": "USA"
+    },
+    "Numeric code": {
+      "text": "840"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:US",
+      "link": "/wiki/ISO_3166-2:US"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "United States Minor Outlying Islands",
+      "link": "/wiki/United_States_Minor_Outlying_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "UM",
+      "link": "/wiki/ISO_3166-1_alpha-2#UM"
+    },
+    "Alpha-3 code": {
+      "text": "UMI"
+    },
+    "Numeric code": {
+      "text": "581"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:UM",
+      "link": "/wiki/ISO_3166-2:UM"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Uruguay",
+      "link": "/wiki/Uruguay"
+    },
+    "Alpha-2 code": {
+      "text": "UY",
+      "link": "/wiki/ISO_3166-1_alpha-2#UY"
+    },
+    "Alpha-3 code": {
+      "text": "URY"
+    },
+    "Numeric code": {
+      "text": "858"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:UY",
+      "link": "/wiki/ISO_3166-2:UY"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Uzbekistan",
+      "link": "/wiki/Uzbekistan"
+    },
+    "Alpha-2 code": {
+      "text": "UZ",
+      "link": "/wiki/ISO_3166-1_alpha-2#UZ"
+    },
+    "Alpha-3 code": {
+      "text": "UZB"
+    },
+    "Numeric code": {
+      "text": "860"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:UZ",
+      "link": "/wiki/ISO_3166-2:UZ"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Vanuatu",
+      "link": "/wiki/Vanuatu"
+    },
+    "Alpha-2 code": {
+      "text": "VU",
+      "link": "/wiki/ISO_3166-1_alpha-2#VU"
+    },
+    "Alpha-3 code": {
+      "text": "VUT"
+    },
+    "Numeric code": {
+      "text": "548"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:VU",
+      "link": "/wiki/ISO_3166-2:VU"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Venezuela (Bolivarian Republic of)",
+      "link": "/wiki/Venezuela"
+    },
+    "Alpha-2 code": {
+      "text": "VE",
+      "link": "/wiki/ISO_3166-1_alpha-2#VE"
+    },
+    "Alpha-3 code": {
+      "text": "VEN"
+    },
+    "Numeric code": {
+      "text": "862"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:VE",
+      "link": "/wiki/ISO_3166-2:VE"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Viet Nam",
+      "link": "/wiki/Vietnam"
+    },
+    "Alpha-2 code": {
+      "text": "VN",
+      "link": "/wiki/ISO_3166-1_alpha-2#VN"
+    },
+    "Alpha-3 code": {
+      "text": "VNM"
+    },
+    "Numeric code": {
+      "text": "704"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:VN",
+      "link": "/wiki/ISO_3166-2:VN"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Virgin Islands (British)",
+      "link": "/wiki/British_Virgin_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "VG",
+      "link": "/wiki/ISO_3166-1_alpha-2#VG"
+    },
+    "Alpha-3 code": {
+      "text": "VGB"
+    },
+    "Numeric code": {
+      "text": "092"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:VG",
+      "link": "/wiki/ISO_3166-2:VG"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Virgin Islands (U.S.)",
+      "link": "/wiki/United_States_Virgin_Islands"
+    },
+    "Alpha-2 code": {
+      "text": "VI",
+      "link": "/wiki/ISO_3166-1_alpha-2#VI"
+    },
+    "Alpha-3 code": {
+      "text": "VIR"
+    },
+    "Numeric code": {
+      "text": "850"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:VI",
+      "link": "/wiki/ISO_3166-2:VI"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Wallis and Futuna",
+      "link": "/wiki/Wallis_and_Futuna"
+    },
+    "Alpha-2 code": {
+      "text": "WF",
+      "link": "/wiki/ISO_3166-1_alpha-2#WF"
+    },
+    "Alpha-3 code": {
+      "text": "WLF"
+    },
+    "Numeric code": {
+      "text": "876"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:WF",
+      "link": "/wiki/ISO_3166-2:WF"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Western Sahara",
+      "link": "/wiki/Western_Sahara"
+    },
+    "Alpha-2 code": {
+      "text": "EH",
+      "link": "/wiki/ISO_3166-1_alpha-2#EH"
+    },
+    "Alpha-3 code": {
+      "text": "ESH"
+    },
+    "Numeric code": {
+      "text": "732"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:EH",
+      "link": "/wiki/ISO_3166-2:EH"
+    },
+    "Independent": {
+      "text": "No"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Yemen",
+      "link": "/wiki/Yemen"
+    },
+    "Alpha-2 code": {
+      "text": "YE",
+      "link": "/wiki/ISO_3166-1_alpha-2#YE"
+    },
+    "Alpha-3 code": {
+      "text": "YEM"
+    },
+    "Numeric code": {
+      "text": "887"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:YE",
+      "link": "/wiki/ISO_3166-2:YE"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Zambia",
+      "link": "/wiki/Zambia"
+    },
+    "Alpha-2 code": {
+      "text": "ZM",
+      "link": "/wiki/ISO_3166-1_alpha-2#ZM"
+    },
+    "Alpha-3 code": {
+      "text": "ZMB"
+    },
+    "Numeric code": {
+      "text": "894"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:ZM",
+      "link": "/wiki/ISO_3166-2:ZM"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  },
+  {
+    "English short name (using title case)": {
+      "text": "Zimbabwe",
+      "link": "/wiki/Zimbabwe"
+    },
+    "Alpha-2 code": {
+      "text": "ZW",
+      "link": "/wiki/ISO_3166-1_alpha-2#ZW"
+    },
+    "Alpha-3 code": {
+      "text": "ZWE"
+    },
+    "Numeric code": {
+      "text": "716"
+    },
+    "Link to ISO 3166-2 subdivision codes": {
+      "text": "ISO 3166-2:ZW",
+      "link": "/wiki/ISO_3166-2:ZW"
+    },
+    "Independent": {
+      "text": "Yes"
+    }
+  }
+],
+    [
+  {
+    "Edition/Newsletter": {
+      "text": "ISO 3166:1974"
+    },
+    "Date issued": {
+      "text": "1974"
+    },
+    "Contents": {
+      "text": "First edition of ISO 3166"
+    }
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "ISO 3166:1981"
+    },
+    "Date issued": {
+      "text": "1981"
+    },
+    "Contents": {
+      "text": "Second edition of ISO 3166"
+    }
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "ISO 3166:1988"
+    },
+    "Date issued": {
+      "text": "1988-08-15"
+    },
+    "Contents": {
+      "text": "Third edition of ISO 3166"
+    }
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "ISO 3166:1994"
+    },
+    "Date issued": {
+      "text": "1994-02-10"
+    },
+    "Contents": {
+      "text": "Fourth edition of ISO 3166"
+    }
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "ISO 3166-1:1997"
+    },
+    "Date issued": {
+      "text": "1997-09-25"
+    },
+    "Contents": {
+      "text": "First edition of ISO 3166-1 (ISO 3166 expanded into three parts)"
+    }
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter V-1",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/newsletter_v-1_samoa.pdf"
+    },
+    "Date issued": {
+      "text": "1998-02-05"
+    },
+    "Contents": [
+      {
+        "text": "Samoa",
+        "link": "/wiki/Samoa"
+      },
+      {
+        "text": "Change of official name ()"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter V-2",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/newsletter_v-2_palestinian_territory_occupied.pdf"
+    },
+    "Date issued": {
+      "text": "1999-10-01"
+    },
+    "Contents": [
+      {
+        "text": "Palestinian Territory, Occupied",
+        "link": "/wiki/Palestinian_territories"
+      },
+      {
+        "text": "Inclusion of new country name and code elements ()"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter V-3",
+      "link": "https://web.archive.org/web/20110722001502/http://www.iso.org/iso/newsletter_v-3_romania.pdf"
+    },
+    "Date issued": {
+      "text": "2002-02-01"
+    },
+    "Contents": [
+      {
+        "text": "Romania",
+        "link": "/wiki/Romania"
+      },
+      {
+        "text": "Change of alpha-3 Code Element ()"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter V-4",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/newsletter_v-4_name_changes.pdf"
+    },
+    "Date issued": {
+      "text": "2002-05-20"
+    },
+    "Contents": [
+      {
+        "text": "Afghanistan",
+        "link": "/wiki/Afghanistan"
+      },
+      {
+        "text": "Azerbaijan",
+        "link": "/wiki/Azerbaijan"
+      },
+      {
+        "text": "Bahrain",
+        "link": "/wiki/Bahrain"
+      },
+      {
+        "text": "Bosnia and Herzegovina",
+        "link": "/wiki/Bosnia_and_Herzegovina"
+      },
+      {
+        "text": "Fiji",
+        "link": "/wiki/Fiji"
+      },
+      {
+        "text": "Hong Kong",
+        "link": "/wiki/Hong_Kong"
+      },
+      {
+        "text": "Kazakhstan",
+        "link": "/wiki/Kazakhstan"
+      },
+      {
+        "text": "Kiribati",
+        "link": "/wiki/Kiribati"
+      },
+      {
+        "text": "Macao",
+        "link": "/wiki/Macau"
+      },
+      {
+        "text": "Niue",
+        "link": "/wiki/Niue"
+      },
+      {
+        "text": "Somalia",
+        "link": "/wiki/Somalia"
+      },
+      {
+        "text": "Venezuela",
+        "link": "/wiki/Venezuela"
+      },
+      {
+        "text": "Name changes (, , , , , , , , , , , )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter V-5",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/newsletter_v-5_east_timor.pdf"
+    },
+    "Date issued": {
+      "text": "2002-05-20"
+    },
+    "Contents": [
+      {
+        "text": "East Timor",
+        "link": "/wiki/East_Timor"
+      },
+      {
+        "text": "Change of names and alphabetical code elements of"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter V-6",
+      "link": "https://web.archive.org/web/20110722001711/http://www.iso.org/iso/newsletter_v-6_timor_leste.pdf"
+    },
+    "Date issued": {
+      "text": "2002-11-15"
+    },
+    "Contents": [
+      {
+        "text": "East Timor",
+        "link": "/wiki/East_Timor"
+      },
+      {
+        "text": "Change of names of"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter V-7",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/newsletter_v-7_comoros.pdf"
+    },
+    "Date issued": {
+      "text": "2003-01-14"
+    },
+    "Contents": [
+      {
+        "text": "Comoros",
+        "link": "/wiki/Comoros"
+      },
+      {
+        "text": "Change of official name of"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter V-8",
+      "link": "https://web.archive.org/web/20110722001734/http://www.iso.org/iso/newsletter_v-8_serbia_and_montenegro.pdf"
+    },
+    "Date issued": {
+      "text": "2003-07-23"
+    },
+    "Contents": [
+      {
+        "text": "Yugoslavia",
+        "link": "/wiki/Federal_Republic_of_Yugoslavia"
+      },
+      {
+        "text": "Serbia and Montenegro",
+        "link": "/wiki/Serbia_and_Montenegro"
+      },
+      {
+        "text": "Deletion of \"\"; inclusion of \"\" with new alphabetical code elements"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter V-9",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/newsletter_v-9_aland_islands.pdf"
+    },
+    "Date issued": {
+      "text": "2004-02-13"
+    },
+    "Contents": [
+      {
+        "text": "Åland Islands",
+        "link": "/wiki/%C3%85land_Islands"
+      },
+      {
+        "text": "Inclusion of an entry for"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter V-10",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/newsletter_v-10_name_changes.pdf"
+    },
+    "Date issued": {
+      "text": "2004-04-26"
+    },
+    "Contents": [
+      {
+        "text": "Afghanistan",
+        "link": "/wiki/Afghanistan"
+      },
+      {
+        "text": "Åland Islands",
+        "link": "/wiki/%C3%85land_Islands"
+      },
+      {
+        "text": "Name changes (, )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter V-11",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/newsletter_v-11_jersey_guernsey_isle_of_man.pdf"
+    },
+    "Date issued": {
+      "text": "2006-03-29"
+    },
+    "Contents": [
+      {
+        "text": "Jersey",
+        "link": "/wiki/Jersey"
+      },
+      {
+        "text": "Guernsey",
+        "link": "/wiki/Guernsey"
+      },
+      {
+        "text": "Isle of Man",
+        "link": "/wiki/Isle_of_Man"
+      },
+      {
+        "text": "United Kingdom",
+        "link": "/wiki/United_Kingdom"
+      },
+      {
+        "text": "Inclusion of an entry for , and . Change of remark for the"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter V-12",
+      "link": "https://web.archive.org/web/20110721191046/http://www.iso.org/iso/newsletter_v-12_serbia_montenegro.pdf"
+    },
+    "Date issued": {
+      "text": "2006-09-26"
+    },
+    "Contents": [
+      {
+        "text": "Serbia",
+        "link": "/wiki/Serbia"
+      },
+      {
+        "text": "Montenegro",
+        "link": "/wiki/Montenegro"
+      },
+      {
+        "text": "Serbia and Montenegro",
+        "link": "/wiki/Serbia_and_Montenegro"
+      },
+      {
+        "text": "Inclusion of the new entries for \"\" and \"\" (replacing and )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "ISO 3166-1:2006",
+      "link": "http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=39719"
+    },
+    "Date issued": {
+      "text": "2006-11-20"
+    },
+    "Contents": {
+      "text": "Second edition of ISO 3166-1"
+    }
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "ISO 3166-1:2006/ Cor 1:2007",
+      "link": "http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=46123"
+    },
+    "Date issued": {
+      "text": "2007-07-15"
+    },
+    "Contents": {
+      "text": "First Technical Corrigendum to ISO 3166-1:2006"
+    }
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-1",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/newsletter_vi-1.pdf"
+    },
+    "Date issued": {
+      "text": "2007-09-21"
+    },
+    "Contents": [
+      {
+        "text": "Saint Barthélemy",
+        "link": "/wiki/Saint_Barth%C3%A9lemy"
+      },
+      {
+        "text": "Saint Martin",
+        "link": "/wiki/Collectivity_of_Saint_Martin"
+      },
+      {
+        "text": "France",
+        "link": "/wiki/France"
+      },
+      {
+        "text": "French Polynesia",
+        "link": "/wiki/French_Polynesia"
+      },
+      {
+        "text": "French Southern Territories",
+        "link": "/wiki/French_Southern_and_Antarctic_Lands"
+      },
+      {
+        "text": "Guadeloupe",
+        "link": "/wiki/Guadeloupe"
+      },
+      {
+        "text": "Réunion",
+        "link": "/wiki/R%C3%A9union"
+      },
+      {
+        "text": "Assignment of code elements for and and update of and other French Territories (, , , )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-2",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso3166-1_newsletter_vi-2.pdf"
+    },
+    "Date issued": {
+      "text": "2008-03-31"
+    },
+    "Contents": [
+      {
+        "text": "Moldova",
+        "link": "/wiki/Moldova"
+      },
+      {
+        "text": "Montenegro",
+        "link": "/wiki/Montenegro"
+      },
+      {
+        "text": "Madagascar",
+        "link": "/wiki/Madagascar"
+      },
+      {
+        "text": "Palestinian Territory, Occupied",
+        "link": "/wiki/Palestinian_territories"
+      },
+      {
+        "text": "Saint Barthélemy",
+        "link": "/wiki/Saint_Barth%C3%A9lemy"
+      },
+      {
+        "text": "Name changes for , and other minor corrections (, , )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-3",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/n567_newsletter.pdf"
+    },
+    "Date issued": {
+      "text": "2008-09-09"
+    },
+    "Contents": [
+      {
+        "text": "Nepal",
+        "link": "/wiki/Nepal"
+      },
+      {
+        "text": "Greenland",
+        "link": "/wiki/Greenland"
+      },
+      {
+        "text": "Guernsey",
+        "link": "/wiki/Guernsey"
+      },
+      {
+        "text": "Moldova",
+        "link": "/wiki/Moldova"
+      },
+      {
+        "text": "Nigeria",
+        "link": "/wiki/Nigeria"
+      },
+      {
+        "text": "Name change for and other minor corrections (, , , )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-4",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/newsletter_vi-4_name_change_for_republic_of_moldova_and_other_minor_corrections_e_-4.pdf"
+    },
+    "Date issued": {
+      "text": "2009-01-07"
+    },
+    "Contents": [
+      {
+        "text": "Republic of Moldova",
+        "link": "/wiki/Moldova"
+      },
+      {
+        "text": "Central African Republic",
+        "link": "/wiki/Central_African_Republic"
+      },
+      {
+        "text": "Comoros",
+        "link": "/wiki/Comoros"
+      },
+      {
+        "text": "Name change for the and other minor corrections (, )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-5",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/newsletter_vi-5.pdf"
+    },
+    "Date issued": {
+      "text": "2009-03-03"
+    },
+    "Contents": [
+      {
+        "text": "Bolivarian Republic of Venezuela",
+        "link": "/wiki/Venezuela"
+      },
+      {
+        "text": "Kiribati",
+        "link": "/wiki/Kiribati"
+      },
+      {
+        "text": "Tuvalu",
+        "link": "/wiki/Tuvalu"
+      },
+      {
+        "text": "Name change for and other minor corrections (, )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-6",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/newsletter_vi-6_name_change_plurinational_state_of_bolivia.pdf"
+    },
+    "Date issued": {
+      "text": "2009-05-08"
+    },
+    "Contents": [
+      {
+        "text": "Plurinational State of Bolivia",
+        "link": "/wiki/Bolivia"
+      },
+      {
+        "text": "Name change for"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-7",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_3166-1_newsletter_vi-7_2010-02-22.pdf"
+    },
+    "Date issued": {
+      "text": "2010-02-22"
+    },
+    "Contents": [
+      {
+        "text": "Saint Helena, Ascension and Tristan da Cunha",
+        "link": "/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha"
+      },
+      {
+        "text": "Name change for"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-8",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_3166-1_newsletter_vi-8_split_of_the_dutch_antilles_final-en.pdf"
+    },
+    "Date issued": {
+      "text": "2010-12-15"
+    },
+    "Contents": [
+      {
+        "text": "Bonaire, Saint Eustatius and Saba",
+        "link": "/wiki/Caribbean_Netherlands"
+      },
+      {
+        "text": "Curaçao",
+        "link": "/wiki/Cura%C3%A7ao"
+      },
+      {
+        "text": "Sint Maarten (Dutch part)",
+        "link": "/wiki/Sint_Maarten"
+      },
+      {
+        "text": "Netherlands",
+        "link": "/wiki/Netherlands"
+      },
+      {
+        "text": "Netherlands Antilles",
+        "link": "/wiki/Netherlands_Antilles"
+      },
+      {
+        "text": "Bosnia and Herzegovina",
+        "link": "/wiki/Bosnia_and_Herzegovina"
+      },
+      {
+        "text": "Croatia",
+        "link": "/wiki/Croatia"
+      },
+      {
+        "text": "Code elements for , and , update of other territories (, Antilles) and minor corrections (, )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-9",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/newsletter_vi-9_fiji-myanmar_and_other_minor_corrections-incl_bulgaria.pdf"
+    },
+    "Date issued": {
+      "text": "2011-06-12 (corrected 2011-07-14)"
+    },
+    "Contents": [
+      {
+        "text": "Fiji",
+        "link": "/wiki/Fiji"
+      },
+      {
+        "text": "Myanmar",
+        "link": "/wiki/Myanmar"
+      },
+      {
+        "text": "Åland Islands",
+        "link": "/wiki/%C3%85land_Islands"
+      },
+      {
+        "text": "Bonaire, Sint Eustatius and Saba",
+        "link": "/wiki/Caribbean_Netherlands"
+      },
+      {
+        "text": "Bulgaria",
+        "link": "/wiki/Bulgaria"
+      },
+      {
+        "text": "Netherlands",
+        "link": "/wiki/Netherlands"
+      },
+      {
+        "text": "Niue",
+        "link": "/wiki/Niue"
+      },
+      {
+        "text": "Name changes for and as well as other minor corrections (, , , , )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-10",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/nl_vi-10_south_sudan.pdf"
+    },
+    "Date issued": {
+      "text": "2011-08-09"
+    },
+    "Contents": [
+      {
+        "text": "South Sudan",
+        "link": "/wiki/South_Sudan"
+      },
+      {
+        "text": "Sudan",
+        "link": "/wiki/Sudan"
+      },
+      {
+        "text": "Code elements for (and new numeric code for )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-11",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/nl_vi-11_name_change_for_libya.pdf"
+    },
+    "Date issued": {
+      "text": "2011-11-08"
+    },
+    "Contents": [
+      {
+        "text": "Libya",
+        "link": "/wiki/Libya"
+      },
+      {
+        "text": "Name change for"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-12",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_3166-1_nl_vi-12_name_change_for_hungary.pdf"
+    },
+    "Date issued": {
+      "text": "2012-02-15"
+    },
+    "Contents": [
+      {
+        "text": "Hungary",
+        "link": "/wiki/Hungary"
+      },
+      {
+        "text": "Bangladesh",
+        "link": "/wiki/Bangladesh"
+      },
+      {
+        "text": "Bonaire, Sint Eustatius and Saba",
+        "link": "/wiki/Caribbean_Netherlands"
+      },
+      {
+        "text": "Central African Republic",
+        "link": "/wiki/Central_African_Republic"
+      },
+      {
+        "text": "Equatorial Guinea",
+        "link": "/wiki/Equatorial_Guinea"
+      },
+      {
+        "text": "Eritrea",
+        "link": "/wiki/Eritrea"
+      },
+      {
+        "text": "Germany",
+        "link": "/wiki/Germany"
+      },
+      {
+        "text": "Name change for and other minor corrections (, , , , , )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-13",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/nl_vi-13_name_change_for_eritrea.pdf"
+    },
+    "Date issued": {
+      "text": "2012-08-02"
+    },
+    "Contents": [
+      {
+        "text": "Eritrea",
+        "link": "/wiki/Eritrea"
+      },
+      {
+        "text": "Germany",
+        "link": "/wiki/Germany"
+      },
+      {
+        "text": "Sri Lanka",
+        "link": "/wiki/Sri_Lanka"
+      },
+      {
+        "text": "Name change for and other minor corrections (, )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-14",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_3166-1_newsletter_vi-14_name_change_state_of_palestine.pdf"
+    },
+    "Date issued": {
+      "text": "2013-02-06"
+    },
+    "Contents": [
+      {
+        "text": "State of Palestine",
+        "link": "/wiki/State_of_Palestine"
+      },
+      {
+        "text": "Bulgaria",
+        "link": "/wiki/Bulgaria"
+      },
+      {
+        "text": "Bouvet Island",
+        "link": "/wiki/Bouvet_Island"
+      },
+      {
+        "text": "Jersey",
+        "link": "/wiki/Jersey"
+      },
+      {
+        "text": "Saint Martin (French part)",
+        "link": "/wiki/Collectivity_of_Saint_Martin"
+      },
+      {
+        "text": "Seychelles",
+        "link": "/wiki/Seychelles"
+      },
+      {
+        "text": "Sint Maarten (Dutch part)",
+        "link": "/wiki/Sint_Maarten"
+      },
+      {
+        "text": "Viet Nam",
+        "link": "/wiki/Vietnam"
+      },
+      {
+        "text": "Name change for and other minor corrections (, , , , , , )"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-15",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_3166-1_newsletter__vi-15_name_change_for_papua_new_guinea.pdf"
+    },
+    "Date issued": {
+      "text": "2013-05-10"
+    },
+    "Contents": [
+      {
+        "text": "Papua New Guinea",
+        "link": "/wiki/Papua_New_Guinea"
+      },
+      {
+        "text": "Name change for"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "Newsletter VI-16",
+      "link": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_3166-1_newsletter__vi-16_name_change_for_somalia_en.pdf"
+    },
+    "Date issued": {
+      "text": "2013-07-11"
+    },
+    "Contents": [
+      {
+        "text": "Somalia",
+        "link": "/wiki/Somalia"
+      },
+      {
+        "text": "Name change for"
+      }
+    ]
+  },
+  {
+    "Edition/Newsletter": {
+      "text": "ISO 3166-1:2013",
+      "link": "http://www.iso.org/iso/catalogue_detail.htm?csnumber=63545"
+    },
+    "Date issued": {
+      "text": "2013-11-19"
+    },
+    "Contents": {
+      "text": "Third edition of ISO 3166-1 (changes are published in the online catalogue of ISO only and no newsletters are published anymore)"
+    }
+  }
+]
+  ]
+}

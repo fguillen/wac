@@ -1,32 +1,62 @@
-require 'nokogiri'
-require 'csv'
+require "nokogiri"
+require "csv"
+require "json"
 
-class Wac::TableExtractor
-  attr_reader :table_html
-
+class Wac::Table < Wac::Element
   def initialize(table_html)
     @table_html = table_html
   end
 
-  def extract
-    keys = extract_keys(table_html)
-    table_blocks = generate_table_blocks(table_html)
-
-    table_blocks_to_json(keys, table_blocks)
+  def to_hash
+    extract
   end
 
-  def table_blocks_to_json(keys, table_blocks)
-    table_blocks.map do |row|
+  def to_json(options = nil)
+    JSON.pretty_generate(to_hash)
+  end
+
+  def to_s
+    to_json
+  end
+
+  def to_csv
+    hash = to_hash
+
+    CSV.generate do |csv|
+      csv << hash.first.keys
+
+      hash.each do |row|
+        csv <<
+          row.values.map do |cell|
+            [cell].flatten.each.map do |element|
+              element[:text]
+            end.join(" | ")
+          end
+      end
+    end
+  end
+
+private
+
+  def extract
+    keys = extract_keys(@table_html)
+    blocks = generate_blocks(@table_html)
+
+    blocks_to_hash(keys, blocks)
+  end
+
+  def blocks_to_hash(keys, blocks)
+    blocks.map do |row|
       row_result = {}
       keys.each_with_index do |key, index|
-        row_result[key] = cell_to_json(row[index])
+        row_result[key] = cell_to_jshash(row[index])
       end
 
       row_result
     end
   end
 
-  def cell_to_json(cell_html)
+  def cell_to_jshash(cell_html)
     doc = Nokogiri::HTML(cell_html)
     links = doc.css("a")
     result = []
@@ -58,23 +88,10 @@ class Wac::TableExtractor
     Nokogiri::HTML(element_html).text.strip.gsub(/\s{2,}/, " ")
   end
 
-  # def table_blocks_to_csv(keys, table_blocks)
-  #   CSV.generate do |csv|
-  #     csv << keys
-
-  #     table_blocks.each do |row|
-  #       csv <<
-  #         row.map do |cell|
-  #           clean_element(cell)
-  #         end
-  #     end
-  #   end
-  # end
-
   def extract_keys(table_html)
     table = Nokogiri::HTML(table_html)
 
-    keys = table.css("thead th").map(&:text).map(&:strip)
+    keys = table.css("tbody tr:first-of-type th").map(&:text).map(&:strip)
 
     keys
   end
@@ -86,31 +103,31 @@ class Wac::TableExtractor
     table.inner_html
   end
 
-  def generate_table_blocks(table_html)
+  def generate_blocks(table_html)
     html_table = Nokogiri::HTML(table_html)
 
-    table_blocks = []
+    blocks = []
     row_index = 0
     column_index = 0
 
-    table_rows = html_table.css("tbody tr")
+    table_rows = html_table.css("tbody tr:not(:first-of-type)")
 
     table_rows.each do |table_row|
-      table_blocks[row_index] ||= []
+      blocks[row_index] ||= []
       column_index = 0
       table_row.css("th, td").each do |table_cell|
 
-        while !table_blocks[row_index][column_index].nil?
+        while !blocks[row_index][column_index].nil?
           column_index += 1
         end
 
         if table_cell["rowspan"]
           table_cell["rowspan"].to_i.times do |row_delta|
-            table_blocks[row_index + row_delta] ||= []
-            table_blocks[row_index + row_delta][column_index] = table_cell.inner_html
+            blocks[row_index + row_delta] ||= []
+            blocks[row_index + row_delta][column_index] = table_cell.inner_html
           end
         else
-          table_blocks[row_index][column_index] = table_cell.inner_html
+          blocks[row_index][column_index] = table_cell.inner_html
         end
 
         column_index += 1
@@ -119,6 +136,6 @@ class Wac::TableExtractor
       row_index += 1
     end
 
-    table_blocks
+    blocks
   end
 end
